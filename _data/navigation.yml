@@ -1,29 +1,12 @@
-# Site navigation links
-- title: about
-  url: /about/
-
-- title: publications
-  url: /publications/
-
-- title: nemo4
-  url: /nemo4/
-
-- title: nemo
-  url: /nemo/
-
-- title: hpc
-  url: /hpc/
-
-- title: python
-  url: /python/
-
-- title: code
-  url: /code/
-
-#- title: Southern Surveyor 
-#  url: /southern_surveyor/
-
-#- title: resources
-  #url: /resources/
-
-
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
