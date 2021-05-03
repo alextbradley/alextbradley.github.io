@@ -91,21 +91,27 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/Alex_face_circle.jpg"
-  bio              : "Mathematician turned glaciologist and oceanographer. Keen software developer and open code advocate. Usually found on a bicycle"
+  bio              : "Mathematician turned glaciologist and oceanographer at the British Antarctic Survey and University of Cambridge. Keen software developer and open code advocate. Usually found on a bicycle."
   location         : "Cambridge, UK"
   links:
-    - label: "Made Mistakes"
+    - label: "BAS Profile"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://www.bas.ac.uk/profile/aleey/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/abraleey"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/alextbradley"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F6hT1nPD6My1zcM9eSJHulp8ARG0lRsV4-whKpOgquxJohKIsbVf4KrVyQkrnqv8K6jjpz_vbb5Z3CkNT8WeYC67VEbYw&user=2zVbnAkAAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0001-8381-5317"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:aleey@bas.ac.uk"
 
 
 # Site Footer
