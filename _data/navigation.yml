@@ -22,14 +22,18 @@ foo:
 main:
   - title: "Home"
     url: /
-  - title: "About me"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "New header"
-    url: /new-section/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  - title: "Research"
+    url: /research/
+  - title: "Code"
+    url: /code/
+  - title: "CV"
+    url: /cv/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Blog"
+    url: /blog/
+  - title: "Miscellaneous"
+    url: /misc/
 
 
 # documentation links
