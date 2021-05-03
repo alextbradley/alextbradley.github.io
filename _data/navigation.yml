@@ -1,0 +1,29 @@
+# Site navigation links
+- title: about
+  url: /about/
+
+- title: publications
+  url: /publications/
+
+- title: nemo4
+  url: /nemo4/
+
+- title: nemo
+  url: /nemo/
+
+- title: hpc
+  url: /hpc/
+
+- title: python
+  url: /python/
+
+- title: code
+  url: /code/
+
+#- title: Southern Surveyor 
+#  url: /southern_surveyor/
+
+#- title: resources
+  #url: /resources/
+
+
