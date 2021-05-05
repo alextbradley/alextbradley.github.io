@@ -1,6 +1,7 @@
 ---
 #title: "Alexander Bradley"
 permalink: /
+classes: wide
 #excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/header_Pissaillas_day.jpg
