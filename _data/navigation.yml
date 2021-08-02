@@ -24,6 +24,8 @@ main:
     url: /
   - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Code"
     url: /code/
   - title: "CV"
@@ -32,8 +34,6 @@ main:
     url: /teaching/
   - title: "Blog"
     url: /blog/
-  - title: "Miscellaneous"
-    url: /misc/
 
 
 # documentation links
