@@ -8,7 +8,7 @@ excerpt: "Electronic CV stored here."
 ---
 
 ### Addresses
-*electronic* aleey(at)bas.ac.uk
+*electronic* aleey(at)bas.ac.uk  
 *department* British Antarctic Survey, High Cross, Madingley Road, Cambridge, CB3 0ET
 
 ### Current Position
@@ -16,53 +16,56 @@ Postdoctoral researcher, Ice Dynamics and Paleoclimate Group, British Antarctic 
 
 ### Education
 **2016-2020**
-Doctor of Philosophy
-Lincoln College and Oxford Mathematics, supervised by Prof. Dominic Vella and Prof. Ian Hewitt
+Doctor of Philosophy  
+Lincoln College and Oxford Mathematics, supervised by Prof. Dominic Vella and Prof. Ian Hewitt  
 Thesis title: *Droplet Transport by Bendotaxis*
 
 **2012-2016**
-MMath Mathematics (First Class in all four years)
+MMath Mathematics (First Class in all four years)  
 Lady Margaret Hall College, University of Oxford
 
 **2005-2012**
-Queen Elizabeth High School, Gainsborough
+Queen Elizabeth High School, Gainsborough  
 4 A Levels, 1 AS Level, 11 GCSEs
+
+### Research Interests
+Ice dynamics, ice-ocean interactions, modelling coupled ice-ocean systems. (Previously) surface tension and elastocapillary dynamics. See my [research page](research.md) for more information.
 
 ### Publications
 See [publications](publications.md)
 
 ### Seminars and Conference Presentations
-See [seminars and conference presentations]
+See [seminars and conference presentations](conferences.md)
 
 ### Awards and Prizes
 
 ### Teaching Experience
 #### Small Group Teaching
-**2017--2020**
+**2018--2020**  
 Non-Stipendiary Lecturer, Worcester College, University of Oxford  
 Prelims (first year): Introductory Calculus, Fourier Series and Partial Differential Equations, Multivariable Calculus
 
-**2018**
+**2018**  
 Lincoln College, University of Oxford  
 Part A (second year): Fluids and Waves
 
-**2019**
+**2019**  
 Worcester College, University of Oxford  
 Part A (second year): Quantum Theory
 
 #### Large Class Teaching
-**2017**
+**2017**  
 Mathematical Institute, University of Oxford  
 Part B (third year): Viscous Flow
 
-**2018**
+**2018**  
 Mathematical Institute, University of Oxford  
 Part C (fourth year): Elasticity and Plasticity
 
 ### Other Academic Activities
+#### Undergraduate Admissions Interviews
+I interviewed applicants for undergraduate admissions to read mathematics at Worcester College, University of Oxford between 2017 and 2020.
 
-
-#### undergraduate Admissions Interviews
 #### Conference Session Chairing
 Subglacial Environments, International Glaciological Society British Branch Meeting 2021
 
