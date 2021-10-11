@@ -13,4 +13,4 @@ I am a postdoctoral researcher in the Modelling Group of the Ice Dynamics and Pa
 
 Before moving to BAS, I completed undergraduate, masters and doctoral degrees in Mathematics at the University of Oxford. I completed my dPhil in 2020, under the supervision of [Prof. Dominic Vella](https://people.maths.ox.ac.uk/vella/index.html) and [Prof. Ian Hewitt](https://people.maths.ox.ac.uk/hewitt/).
 
-The cover photo is the Glacier du Grand Pisaillas, in the Bonneval-sur-Arc region of France. This image is symbolic of the synergy between my research into ice dynamics, and my passion for riding bikes. I have had the pleasure of visiting the Glacier du Pisaillas in both the winter on skis, and in the summer [on a bike](https://www.strava.com/activities/3838044782).
+The cover photo is the Glacier du Grand Pisaillas, in the Bonneval-sur-Arc region of France, a place I have had the pleasure of studying the dynamics of, as well as visiting in both the winter on skis, and in the summer [on a bike](https://www.strava.com/activities/3838044782).
