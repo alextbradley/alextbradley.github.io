@@ -39,24 +39,26 @@ See [seminars and conference presentations]
 ### Teaching Experience
 #### Small Group Teaching
 **2017--2020**
-Non-Stipendiary Lecturer, Worcester College, University of Oxford
+Non-Stipendiary Lecturer, Worcester College, University of Oxford  
 Prelims (first year): Introductory Calculus, Fourier Series and Partial Differential Equations, Multivariable Calculus
 
 **2018**
-Lincoln College, University of Oxford
+Lincoln College, University of Oxford  
 Part A (second year): Fluids and Waves
 
 **2019**
-Worcester College, University of Oxford
+Worcester College, University of Oxford  
 Part A (second year): Quantum Theory
 
 #### Large Class Teaching
 **2017**
-Mathematical Institute, University of Oxford
+Mathematical Institute, University of Oxford  
 Part B (third year): Viscous Flow
 
 **2018**
-Mathematical Institute, University of Oxford
+Mathematical Institute, University of Oxford  
 Part C (fourth year): Elasticity and Plasticity
 
 ### Other Academic Activities
+#### Seminar
+Since 2020, I have organized seminars for the Ice Dynamics and Paleoclimate Grop
