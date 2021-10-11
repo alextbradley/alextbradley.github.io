@@ -60,5 +60,14 @@ Mathematical Institute, University of Oxford
 Part C (fourth year): Elasticity and Plasticity
 
 ### Other Academic Activities
-#### Seminar
-Since 2020, I have organized seminars for the Ice Dynamics and Paleoclimate Grop
+
+
+#### undergraduate Admissions Interviews
+#### Conference Session Chairing
+Subglacial Environments, International Glaciological Society British Branch Meeting 2021
+
+#### Seminars
+Since 2020, I have organized seminars for the [Ice Dynamics and Paleoclimate Group](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at the British Antarctic Survey
+
+
+*This page was last updated on 11th October 2021*
