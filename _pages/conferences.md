@@ -1,12 +1,12 @@
 ---
-permalink: /conferences/
+permalink: /talks/
 title: "Seminars and Conference Presentations"
 excerpt: "Here is a list of seminars and conference presentations I have given."
 
 #last_modified_at: 2021-02-05T20:54:41-05:00
 #toc: true
 ---
-
+Below is a list of seminars and conference presentations I have given:
 
 * 09/2021 International Glaciological Society (IGS) British Branch Meeting, Online
 * 04/2021 European Geophysical Union (EGU) Assembly General Assembly, Online
