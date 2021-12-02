@@ -24,22 +24,19 @@ A. T. Bradley, C. R. Williams, A. Jenkins and R. Arthern
 A. T. Bradley, I. J. Hewitt, D. Vella
 
 ## 2021
-* Droplet trapping in bendotaxis caused by contact angle hysteresis   
+* [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)
 A. T. Bradley, I. J. Hewitt and D. Vella  
-Phys. Rev Fluids 6, 114003 (2021)
-[[arXiv](https://arxiv.org/abs/2104.10115)]
+Phys. Rev Fluids 6, 114003 (2021) [[arXiv](https://arxiv.org/abs/2104.10115)]
 
 ## 2020
 * [Droplet Transport by Bendotaxis](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)  
 A. T. Bradley  
-PhD Thesis, University of Oxford (2020)  
-[[ORA Record](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)]
+PhD Thesis, University of Oxford (2020)  [[ORA Record](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)]
 
 ## 2019
 * [Wettability-independent droplet transport by Bendotaxis](https://doi.org/10.1103/PhysRevLett.122.074503)  
  A. T. Bradley, F. Box, I. J. Hewitt and D. Vella  
- Phys. Rev. Lett. 122 074503 (2019)  
-[[arXiv](http://arxiv.org/abs/1809.10923)]
+ Phys. Rev. Lett. 122 074503 (2019)  [[arXiv](http://arxiv.org/abs/1809.10923)]
 
 
 ## Other
