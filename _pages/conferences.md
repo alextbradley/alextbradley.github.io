@@ -7,8 +7,9 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 #toc: true
 ---
 Below is a list of seminars and conference presentations I have given:
-
+* 12/2021 (Invited) Oceans and Atmosphere Group Seminar, Department of Applied Maths and Theoretical Physics, University of Cambridge, United Kingdom
 * 09/2021 International Glaciological Society (IGS) British Branch Meeting, Online
+* 08/2021 Oxford Maths Ice Reading Group, Online 
 * 04/2021 European Geophysical Union (EGU) Assembly General Assembly, Online
 * 03/2021 BAS Ice Dynamics and Paleoclimate Group Seminar, British Antarctic Survey, United Kingdom
 * 09/2020 International Glaciological Society British Branch Meeting, Online
