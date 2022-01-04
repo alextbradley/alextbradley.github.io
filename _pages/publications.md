@@ -9,41 +9,41 @@ excerpt: "Here is a list of my publications."
 ## Forthcoming
 
 * The influence of Pine Island Ice Shelf calving on melting  
-A. T. Bradley, D. Bett, P. Dutrieux, J. De Rydt and P. Holland
+**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland
 
 * WAVI.jl: An ice sheet model, written in Julia  
-A. T. Bradley, R. Arthern, C. Rosie Williams, D. Bett
+**A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
 
 * Asymptotic analysis of subglacial plumes in stratified environments  
-A. T. Bradley, C. R. Williams, A. Jenkins and R. Arthern  
+**A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
 *submitted* [[arXiv](https://arxiv.org/abs/2103.09003)]
 
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
-A. T. Bradley, I. J. Hewitt, D. Vella  
+**A. T. Bradley**, I. J. Hewitt, D. Vella  
 *submitted* [[arXiv]]()]
 
 ## 2022
-*  Ice front retreat reconfigures meltwater-driven gyres modulating ocean heat delivery to an Antarctic ice shelf 
+*  Ice front retreat reconfigures meltwater-driven gyres modulating ocean heat delivery to an Antarctic ice shelf  
 S.-T. Yoon, W. S. Lee, S. Nam, C.-K. Lee, S. Yun, K. Heywood, L. Boehme, Y. Zheng, I. Lee, Y. Choi, A. Jenkins, E. K. Jin, R. Larter, J. Wellner, P. Dutrieux and **A. T. Bradley**  
 *(accepted in Nature Communications)* 
 
 ## 2021
 * [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)
-A. T. Bradley, I. J. Hewitt and D. Vella  
+**A. T. Bradley**, I. J. Hewitt and D. Vella  
 Phys. Rev Fluids 6, 114003 (2021) [[arXiv](https://arxiv.org/abs/2104.10115)]
 
 ## 2020
 * [Droplet Transport by Bendotaxis](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)  
-A. T. Bradley  
+**A. T. Bradley**  
 PhD Thesis, University of Oxford (2020)  [[ORA Record](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)]
 
 ## 2019
 * [Wettability-independent droplet transport by Bendotaxis](https://doi.org/10.1103/PhysRevLett.122.074503)  
- A. T. Bradley, F. Box, I. J. Hewitt and D. Vella  
- Phys. Rev. Lett. 122 074503 (2019)  [[arXiv](http://arxiv.org/abs/1809.10923)]
+**A. T. Bradley**, F. Box, I. J. Hewitt and D. Vella   
+Phys. Rev. Lett. 122 074503 (2019)  [[arXiv](http://arxiv.org/abs/1809.10923)]
 
 
 ## Other
-* [Marine Ice Sheet Instabilities](https://www.dropbox.com/s/m92l444url7w8ed/619763.pdf?dl=0)
-A. T. Bradley
+* [Marine Ice Sheet Instabilities](https://www.dropbox.com/s/m92l444url7w8ed/619763.pdf?dl=0)  
+**A. T. Bradley**  
 Masters Thesis, University of Oxford (2016)
