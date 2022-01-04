@@ -7,10 +7,8 @@ excerpt: "Here is a list of my publications."
 #toc: true
 ---
 ## Forthcoming
-* Ice front retreat reconfigures meltwater-driven gyres modulating ocean heat delivery to an Antarctic ice shelf  
-S.-T. Yoon, W. S. Lee, S. Nam, C.-K. Lee, S. Yun, K. Heywood, L. Boehme, Y. Zheng, I. Lee, Y. Choi, A. Jenkins, E. K. Jin, R. Larter, J. Wellner, P. Dutrieux and A. T. Bradley
 
-* The Melt Response of Pine Island Ice Shelf to Calving Events 
+* The influence of Pine Island Ice Shelf calving on melting 
 A. T. Bradley, D. Bett, P. Dutrieux, J. De Rydt and P. Holland
 
 * WAVI.jl: An ice sheet model, written in Julia
@@ -22,6 +20,11 @@ A. T. Bradley, C. R. Williams, A. Jenkins and R. Arthern
 
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel
 A. T. Bradley, I. J. Hewitt, D. Vella
+
+## 2022
+*  Ice front retreat reconfigures meltwater-driven gyres modulating ocean heat delivery to an Antarctic ice shelf 
+S.-T. Yoon, W. S. Lee, S. Nam, C.-K. Lee, S. Yun, K. Heywood, L. Boehme, Y. Zheng, I. Lee, Y. Choi, A. Jenkins, E. K. Jin, R. Larter, J. Wellner, P. Dutrieux and **A. T. Bradley**
+*(acceped in Nature Communications)* 
 
 ## 2021
 * [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)
