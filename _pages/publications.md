@@ -15,16 +15,16 @@ A. T. Bradley, D. Bett, P. Dutrieux, J. De Rydt and P. Holland
 A. T. Bradley, R. Arthern, C. Rosie Williams, D. Bett
 
 * Asymptotic analysis of subglacial plumes in stratified environments  
-A. T. Bradley, C. R. Williams, A. Jenkins and R. Arthern
+A. T. Bradley, C. R. Williams, A. Jenkins and R. Arthern  
 *submitted* [[arXiv](https://arxiv.org/abs/2103.09003)]
 
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
-A. T. Bradley, I. J. Hewitt, D. Vella
+A. T. Bradley, I. J. Hewitt, D. Vella  
 *submitted* [[arXiv]]()]
 
 ## 2022
 *  Ice front retreat reconfigures meltwater-driven gyres modulating ocean heat delivery to an Antarctic ice shelf 
-S.-T. Yoon, W. S. Lee, S. Nam, C.-K. Lee, S. Yun, K. Heywood, L. Boehme, Y. Zheng, I. Lee, Y. Choi, A. Jenkins, E. K. Jin, R. Larter, J. Wellner, P. Dutrieux and **A. T. Bradley**
+S.-T. Yoon, W. S. Lee, S. Nam, C.-K. Lee, S. Yun, K. Heywood, L. Boehme, Y. Zheng, I. Lee, Y. Choi, A. Jenkins, E. K. Jin, R. Larter, J. Wellner, P. Dutrieux and **A. T. Bradley**  
 *(accepted in Nature Communications)* 
 
 ## 2021
