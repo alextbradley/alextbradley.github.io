@@ -8,17 +8,17 @@ excerpt: "Here is a list of my publications."
 ---
 ## Forthcoming
 
-* The influence of Pine Island Ice Shelf calving on melting 
+* The influence of Pine Island Ice Shelf calving on melting  
 A. T. Bradley, D. Bett, P. Dutrieux, J. De Rydt and P. Holland
 
-* WAVI.jl: An ice sheet model, written in Julia
+* WAVI.jl: An ice sheet model, written in Julia  
 A. T. Bradley, R. Arthern, C. Rosie Williams, D. Bett
 
-* Asymptotic analysis of subglacial plumes in stratified environments 
+* Asymptotic analysis of subglacial plumes in stratified environments  
 A. T. Bradley, C. R. Williams, A. Jenkins and R. Arthern
 *submitted* [[arXiv](https://arxiv.org/abs/2103.09003)]
 
-* Bendocapillary Instability of Liquid in a Flexible-Walled Channel
+* Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
 A. T. Bradley, I. J. Hewitt, D. Vella
 *submitted* [[arXiv]]()]
 
