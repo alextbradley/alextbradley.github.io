@@ -23,9 +23,9 @@ excerpt: "Here is a list of my publications."
 *submitted* [[arXiv]]()]
 
 ## 2022
-*  Ice front retreat reconfigures meltwater-driven gyres modulating ocean heat delivery to an Antarctic ice shelf  
+*  [Ice front retreat reconfigures meltwater-driven gyres modulating ocean heat delivery to an Antarctic ice shelf](https://www.nature.com/articles/s41467-022-27968-8)  
 S.-T. Yoon, W. S. Lee, S. Nam, C.-K. Lee, S. Yun, K. Heywood, L. Boehme, Y. Zheng, I. Lee, Y. Choi, A. Jenkins, E. K. Jin, R. Larter, J. Wellner, P. Dutrieux and **A. T. Bradley**  
-[Nature Communications 13 306](https://www.nature.com/articles/s41467-022-27968-8)
+Nature Communications 13 306
 
 ## 2021
 * [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)
