@@ -16,7 +16,7 @@ excerpt: "Here is a list of my publications."
 
 * Asymptotic analysis of subglacial plumes in stratified environments  
 **A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
-*submitted* [[arXiv](https://arxiv.org/abs/2103.09003)]
+*accepted in Proceedings Royal Society A* [[arXiv](https://arxiv.org/abs/2103.09003)]
 
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
 **A. T. Bradley**, I. J. Hewitt, D. Vella  
