@@ -6,23 +6,22 @@ excerpt: "Here is a list of my publications."
 #last_modified_at: 2021-02-05T20:54:41-05:00
 #toc: true
 ---
-## Forthcoming
-
+## Forthcoming 
 * The influence of Pine Island Ice Shelf calving on melting  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland
 
 * WAVI.jl: An ice sheet model, written in Julia  
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
 
-* Asymptotic analysis of subglacial plumes in stratified environments  
-**A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
-*accepted in Proceedings Royal Society A* [[arXiv](https://arxiv.org/abs/2103.09003)]
-
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
 **A. T. Bradley**, I. J. Hewitt, D. Vella  
 *submitted* [[arXiv]]()]
 
 ## 2022
+*  Asymptotic analysis of subglacial plumes in stratified environments  
+**A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
+*accepted in Proceedings Royal Society A* [[arXiv](https://arxiv.org/abs/2103.09003)]
+
 *  [Ice front retreat reconfigures meltwater-driven gyres modulating ocean heat delivery to an Antarctic ice shelf](https://www.nature.com/articles/s41467-022-27968-8)  
 S.-T. Yoon, W. S. Lee, S. Nam, C.-K. Lee, S. Yun, K. Heywood, L. Boehme, Y. Zheng, I. Lee, Y. Choi, A. Jenkins, E. K. Jin, R. Larter, J. Wellner, P. Dutrieux and **A. T. Bradley**  
 Nature Communications 13, 306 (2022)
