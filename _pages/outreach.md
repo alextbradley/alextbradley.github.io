@@ -7,8 +7,9 @@ excerpt: "Here is a list of outreach activities I have participated in"
 #toc: true
 ---
 Below is a list of outreach activities I have participated in:
-* 06/2020--Present **Lead Admin at @Antarctic_news** twitter account (>10k followers) providing news updates on Antarctica.  
-
+* 2021--Present **UK Polar Network Committee Member** Responsible for organizing the annual Pint of Science event.
+* 06/2020--Present **Lead Admin at @Antarctic_news** @antarctic_news is a twitter account (>10k followers) providing news updates on Antarctica.  
+* 03/2021 **Polar Horizons Programme** Delivered several sessions which provided an insight into polar careers to those from underrepresented backgrounds in polar science.
 * 2019--Present **STEM Ambassador** Volunteer for STEM learning, a network of education and career support providers working with young people and schools.  
 * 11/2019 **Super Science Saturday at Oxford University Museum of Natural History** Exhibitor at large outreach event. Experimental demonstration and theoretical insight into
 problems in fluid mechanics (surface tension, wetting).   
