@@ -39,6 +39,9 @@ See [seminars and conference presentations](conferences.md)
 
 ### Awards and Prizes
 
+### Outreach
+See [outreach activities](outreach.md)
+
 ### Teaching Experience
 #### Small Group Teaching
 **2018--2020**  
