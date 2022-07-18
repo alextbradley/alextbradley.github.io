@@ -9,11 +9,11 @@ excerpt: "Here is a list of my publications."
 ## Forthcoming 
 * The influence of Pine Island Ice Shelf calving on melting  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
-*submitted* ([essoar preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1))
+*in review* ([essoar preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1))
 
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
 **A. T. Bradley**, I. J. Hewitt, D. Vella  
-*submitted* ([arXiv preprint](https://arxiv.org/abs/2201.01103))
+*in review* ([arXiv preprint](https://arxiv.org/abs/2201.01103))
 
 * WAVI.jl: An ice sheet model, written in Julia  
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
