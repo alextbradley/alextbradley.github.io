@@ -76,7 +76,7 @@ Subglacial Environments, International Glaciological Society British Branch Meet
 Since 2020, I have organized seminars for the [Ice Dynamics and Paleoclimate Group](https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/) at the British Antarctic Survey
 
 #### Peer Review
-I have reviewed manuscripts for Nature Climate Change
+I have reviewed manuscripts for _the Cryosphere_ and _Nature Climate Change_
 
 
 *This page was last updated on 7th Feb 2022*
