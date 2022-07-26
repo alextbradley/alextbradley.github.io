@@ -7,14 +7,15 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 #toc: true
 ---
 Below is a list of seminars and conference presentations I have given:
-* 03/2022 (Invited) International Glaciological Society Seminar Series, Online
+* 05/2022 [EGU General Assembly, Vienna, Austria](https://meetingorganizer.copernicus.org/EGU22/EGU22-1118.html)
+* 03/2022 (Invited) [International Glaciological Society Seminar Series, Online](https://www.youtube.com/watch?v=A_sNaKibyxo&t=4s)
 * 02/2022 (Invited) Marine Geology and Geophysics / Seismology, Geology, and Tectonophysics seminar series, Lamont-Doherty Earth Observatory, Colombia University
 * 02/2022 Oxford Maths Ice Reading Group, Online 
 * 12/2021 American Geophysical Union Assembly Fall Meeting, Online
 * 11/2021 (Invited) Oceans and Atmosphere Group Seminar, Department of Applied Maths and Theoretical Physics, University of Cambridge, United Kingdom
 * 09/2021 International Glaciological Society British Branch Meeting, Online
 * 08/2021 Oxford Maths Ice Reading Group, Online 
-* 05/2021 (Invited) Downing College Seminar Series, University of Cambridge, United Kingdom
+* 05/2021 (Invited) [Downing College Seminar Series, University of Cambridge, United Kingdom](https://youtu.be/_fMMqbwakCw)
 * 04/2021 European Geophysical Union Assembly General Assembly, Online
 * 03/2021 (Invited) BAS Ice Dynamics and Paleoclimate Group Seminar, British Antarctic Survey, United Kingdom
 * 09/2020 International Glaciological Society British Branch Meeting, Online
