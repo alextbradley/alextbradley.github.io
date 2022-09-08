@@ -9,7 +9,7 @@ excerpt: "Page for hosting schematics."
 I put schematics I have made here for use by others. All files listed here carry a CC BY-SA 4.0 licence.
 
 #### Ice Shelf Feedback Processes
-<img align = "centre" src="../assets/schematics/fig0_mountains.png" alt="" title="" width="600" />
+<img align = "centre" src="../assets/schematics/shelf_feedbacks.png" alt="" title="" width="600" />
 
 
 **Download**: [png](https://alextbradley.github.io/assets/schematics/shelf_feedbacks.png), [pdf](https://alextbradley.github.io/assets/schematics/shelf_feedbacks.pdf), [SVG](https://alextbradley.github.io/assets/schematics/shelf_feedbacks.svg), [IDRAW](https://alextbradley.github.io/assets/schematics/shelf_feedbacks.IDRAW) 
