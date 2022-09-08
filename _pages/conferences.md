@@ -7,6 +7,7 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 #toc: true
 ---
 Below is a list of seminars and conference presentations I have given:
+* 09/2022 International Glaciological Society British Branch Meeting, Edinburgh, UK
 * 05/2022 [EGU General Assembly, Vienna, Austria](https://meetingorganizer.copernicus.org/EGU22/EGU22-1118.html)
 * 03/2022 (Invited) [International Glaciological Society Seminar Series, Online](https://www.youtube.com/watch?v=A_sNaKibyxo&t=4s)
 * 02/2022 (Invited) Marine Geology and Geophysics / Seismology, Geology, and Tectonophysics seminar series, Lamont-Doherty Earth Observatory, Colombia University
