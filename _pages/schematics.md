@@ -12,4 +12,4 @@ I put schematics I have made here for use by others. All files listed here carry
 <img align = "centre" src="../assets/schematics/fig0_mountains.png" alt="" title="" width="600" />
 
 
-**Download**: [png]("alextbradley.github.io/assets/schematics/shelf_feedbacks.png"), [pdf]("../assets/schematics/shelf_feedbacks.pdf"), [SVG]("../assets/schematics/shelf_feedbacks.svg"), [IDRAW]("../assets/schematics/shelf_feedbacks.IDRAW") 
+**Download**: [png]("https://alextbradley.github.io/assets/schematics/shelf_feedbacks.png"), [pdf]("https://alextbradley.github.io/assets/schematics/shelf_feedbacks.pdf"), [SVG]("https://alextbradley.github.io/assets/schematics/shelf_feedbacks.svg"), [IDRAW]("https://alextbradley.github.io/assets/schematics/shelf_feedbacks.IDRAW") 
