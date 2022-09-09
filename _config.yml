@@ -89,7 +89,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/profile_picture.jpg"
+  avatar           : "/assets/images/headphoto.jpg"
   bio              : "Mathematician turned glaciologist and oceanographer at the British Antarctic Survey and University of Cambridge. Keen software developer and open code advocate. Usually found on a bicycle."
   location         : "Cambridge, UK"
   links:
