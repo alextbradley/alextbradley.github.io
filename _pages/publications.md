@@ -6,7 +6,7 @@ excerpt: "Here is a list of my publications."
 #last_modified_at: 2021-02-05T20:54:41-05:00
 #toc: true
 ---
-A full list of publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=2zVbnAkAAAAJ&hl=en). Note that all of my first author publications are freely available on preprint servers in their 'accepted' format. If you would like access to any other papers I have contributed to, don't hesitate to [send me an email](mailto:alextbradley@gmail.com).
+A full list of publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=2zVbnAkAAAAJ&hl=en). Note that all of my first author publications are freely available on preprint servers (arXiv/essoar) in their 'accepted' format, which can be found here. If you don't have access to any article listed here, and would like access, please don't hesitate to [send me an email](mailto:alextbradley@gmail.com).
 
 ## Forthcoming 
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
