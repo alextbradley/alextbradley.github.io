@@ -7,6 +7,7 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 #toc: true
 ---
 Below is a list of seminars and conference presentations I have given:
+* 09/2022 Forum for Research into Ice Shelf Processes, Northumbria, UK
 * 09/2022 International Glaciological Society British Branch Meeting, Edinburgh, UK
 * 05/2022 [EGU General Assembly, Vienna, Austria](https://meetingorganizer.copernicus.org/EGU22/EGU22-1118.html)
 * 03/2022 (Invited) [International Glaciological Society Seminar Series, Online](https://www.youtube.com/watch?v=A_sNaKibyxo&t=4s)
@@ -20,13 +21,13 @@ Below is a list of seminars and conference presentations I have given:
 * 04/2021 European Geophysical Union Assembly General Assembly, Online
 * 03/2021 (Invited) BAS Ice Dynamics and Paleoclimate Group Seminar, British Antarctic Survey, United Kingdom
 * 09/2020 International Glaciological Society British Branch Meeting, Online
-* 09/2019 Droplets 2019, University of Durham, United Kingdom.
-* 05/2019 Oxford SIAM Student Conference, University of Oxford, United Kingdom.
-* 04/2019 British Applied Maths Colloqium, University of Bath, United Kingdom.
-* 11/2018 71st APS DFD Meeting, Atlanta, GA, United States of America.
-* 10/2018 Oxford Mathematics Junior Applied Mathematics Seminar, University of Oxford, United Kingdom.
+* 09/2019 Droplets 2019, University of Durham, United Kingdom
+* 05/2019 Oxford SIAM Student Conference, University of Oxford, United Kingdom
+* 04/2019 British Applied Maths Colloqium, University of Bath, United Kingdom
+* 11/2018 71st APS DFD Meeting, Atlanta, GA, United States of America
+* 10/2018 Oxford Mathematics Junior Applied Mathematics Seminar, University of Oxford, United Kingdom
 * 09/2018 UK Fluids Network Special Interest Group on Drop Dynamics, University of
-Oxford, United Kingdom.
+Oxford, United Kingdom
 * 12/2017 (Invited) Oxford Centre for Industrial and Applied Mathematics Seminar, University of
-Oxford, United Kingdom.
-* 12/2017 Oxford Soft Matter Group Seminar, University of Oxford, United Kingdom.
+Oxford, United Kingdom
+* 12/2017 Oxford Soft Matter Group Seminar, University of Oxford, United Kingdom
