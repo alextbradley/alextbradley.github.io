@@ -3,7 +3,7 @@ permalink: /CV/
 title: "CV"
 excerpt: "Electronic CV stored here."
 header:
-  image: /assets/headers/header_Mangart.jpg
+  image: /assets/headers/header_Mangart.jpeg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 
 classes: wide

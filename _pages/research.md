@@ -4,7 +4,7 @@ title: "Research"
 classes: wide
 excerpt: "Here are some details of my research."
 header:
-  image: /assets/headers/header_Durmitor.jpg
+  image: /assets/headers/header_Durmitor.jpeg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 
 #last_modified_at: 2021-02-05T20:54:41-05:00
