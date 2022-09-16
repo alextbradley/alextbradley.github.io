@@ -3,7 +3,8 @@ permalink: /publications/
 title: "Publications"
 classes: wide
 excerpt: "Here is a list of my publications."
-
+header:
+  image: /assets/headers/header_StIves.jpg
 #last_modified_at: 2021-02-05T20:54:41-05:00
 #toc: true
 ---
