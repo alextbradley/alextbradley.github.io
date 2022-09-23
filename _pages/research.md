@@ -11,14 +11,14 @@ header:
 #toc: true
 ---
 
-I use numerical, statistical, and analytic methods to answer questions relating to the cryosphere. I use models, from simple schematic models to large general circulation models, to address questions relating to the changes we observe and to simulate those that may occur in the future. I am also interested in the public policy implications associated with a changing cryosphere.
+I apply numerical, statistical, and analytic methods to help answer questions relating to the cryosphere. I use models, from simple schematic models to large general circulation models, to address questions relating to the changes we observe and to simulate those that may occur in the future. I am also interested in the public policy implications associated with a changing cryosphere.
 
 ## Ice Shelf Collapse and Extreme Events
 <img align = "right" src="../assets/schematics/shelf_feedbacks.png" alt="" title="" width="450" />
 
-Ice shelves play an integral role in modulating sea level rise by buttressing the adjoining grounded ice. I am interested in understanding the processes, in particular, melting, fracture, and damage which might promote their collapse. 
+Ice shelves play an integral role in modulating sea level rise by buttressing the adjoining grounded ice. I am interested in understanding the processes (e.g. melting, fracture, and damage) which might promote their collapse. 
 
-More broadly, ice shelf collapse is an example of a (possibly) low likelihood, high impact event; understanding such events allows us to constrain high end scenarios under future warming.
+More broadly, ice shelf collapse is an example of a (possibly) low likelihood, high impact event; understanding such events allows us to constrain high end ice loss under future warming scenarios.
 
 #### Publications
 * A Short Shelf Life? Feedbacks Promote Ice Shelf Collapse _in prep_ 
@@ -29,7 +29,7 @@ _Journal of Geophysical Research: Oceans, 127 (2022)_  ([essoar](https://www.ess
 
 
 ## Sea Level Rise
-The Antarctic and Greenland ice sheets represent the biggest uncertainties in future sea level rise projections. By studing the behaviour of these ice sheets on both small and large scales, I hope to contribute to improve future predictions of ice sheet mass loss.
+The Antarctic and Greenland ice sheets represent the biggest uncertainties in future sea level rise projections. By studing the behaviour of these ice sheets on both small and large scales, we can improve future predictions of ice sheet mass loss.
 
 ### From small scales...
 In climate models, many processes are parametrized for computation tractability. In ice sheet models in particular, these are often related to melting, both at the grounding line and on the ice shelf itself. I use reduced complexity models, asymptotic methods, and ocean models to try to constrain these processes.
@@ -38,13 +38,13 @@ In climate models, many processes are parametrized for computation tractability.
 * [Asymptotic Analysis of Subglacial Plumes in Stratified Environment](hhttps://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846), **A. T. Bradley**, C. R. Williams, A. Jenkins, R. Arthern
 
 ### ...to large scales
-We can use Bayesian calibration methods to refine predictions of future Antarctic ice sheet loss. In my current project, I am to quantify the impact of the El-Niño Southern Oscillation on the past and future rate of ice loss from West Antarctica. 
+Bayesian calibration methods can be used to refine predictions of future Antarctic ice sheet loss. Currently, I am applying such methods to help to quantify the impact of the El-Niño Southern Oscillation on the past and future rate of ice loss from West Antarctica. 
 
 #### Publications
 * WAVI.jl: Ice Sheet Modelling in Julia, _in prep_, **A. T. Bradley**, R. J. Arthern, D. T. Bett, C. R. Williams, J. Byrne
 
 ## Cryosphere Attribution 
-Attribution science seeks to describe, quantitatively, the effect of climate change on weather events. Given the long timescales involved, ice sheet evolution can also be considered a "weather event". Despite its ubiquity in images of climate change, there has been no formal attribution of changes to the Antarctic or Greenland ice sheets to climate change.   
+Attribution science seeks to describe, quantitatively, the effect of climate change on weather events. Given the long timescales involved, ice sheet evolution can also be considered a "weather event". However, despite its ubiquity in images of climate change, there has been no formal attribution of changes to the Antarctic or Greenland ice sheets to climate change.   
 
 #### Publications
 * A Bayesian Framework for Quantifying the role of Anthropogenic Climate Change in Antarctic Retreat, _in prep_

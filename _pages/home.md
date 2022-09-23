@@ -11,7 +11,7 @@ header:
 
 I am a postdoctoral researcher at the British Antarctic Survey and a David MacKay Cambridge Zero reseach associate at the University of Cambridge.   
 
-I use numerical, statistical, and analytic methods to answer questions relating to the cryosphere. I use models, from simple schematic models to large general circulation models, to address questions relating to the changes we observe and to simulate those that may occur in the future. I am also interested in the public policy implications associated with a changing cryosphere. You can find out more about my interests from the ['research' tab](research.md).  
+I apply numerical, statistical, and analytic methods to help answer questions relating to the cryosphere. I use models, from simple schematic models to large general circulation models, to address questions relating to the changes we observe and to simulate those that may occur in the future. I am also interested in the public policy implications associated with a changing cryosphere. You can find out more about my interests from the ['research' tab](research.md).  
 
 I previously completed undergraduate, masters and doctoral degrees in Mathematics at the University of Oxford. I completed my dPhil in 2020, under the supervision of [Prof. Dominic Vella](https://people.maths.ox.ac.uk/vella/index.html) and [Prof. Ian Hewitt](https://people.maths.ox.ac.uk/hewitt/).  
 
