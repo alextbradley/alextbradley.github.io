@@ -17,5 +17,5 @@ I previously completed undergraduate, masters and doctoral degrees in Mathematic
 
 My work has been featured in, amongst others, [physicsworld](https://physicsworld.com/a/droplets-move-through-narrow-channel-by-bending-the-walls/), [nature](https://www.nature.com/articles/d41586-019-00701-0), [phys.org](https://phys.org/news/2019-02-liquid-channel.html),and [Physics](https://physics.aps.org/articles/v12/18).
 
-My header photo is from the Iezer-Pâpusa mountain range in Romania. Each page on the website has a different cover photo from somewhere in the mountains (my happy place!); they can be seen all together here.
+My header photo is from the Iezer-Pâpusa mountain range in Romania. Each page on the website has a different cover photo from somewhere in the mountains; they can be seen all together here (coming soon).
 
