@@ -15,18 +15,18 @@ A full list of publications can also be found on [Google Scholar](https://schola
 ## Forthcoming 
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
 **A. T. Bradley**, I. J. Hewitt, D. Vella  
-*in review* ([arXiv preprint](https://arxiv.org/abs/2201.01103))
+*in review* [[arXiv](https://arxiv.org/abs/2201.01103)]
 
 * WAVI.jl: An ice sheet model, written in Julia  
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
 
-* A Bayesian Framework for Quantifying the role of Anthropogenic Climate Change in Antarctic Retreat.
-**A. T. Bradley**
+* A Bayesian Framework for Quantifying the role of Anthropogenic Climate Change in Antarctic Retreat.  
+**A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
 
 ## 2022
 * [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
-_Journal of Geophysical Research: Oceans, 127 (2022)_  ([essoar](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1))  
+_Journal of Geophysical Research: Oceans, 127 (2022)_  [[essoar](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1)] 
 
 *  [Asymptotic analysis of subglacial plumes in stratified environments](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846)
 **A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
@@ -39,7 +39,7 @@ _Nature Communications 13, 306 (2022)_
 ## 2021
 * [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)
 **A. T. Bradley**, I. J. Hewitt and D. Vella  
-_Phys. Rev. Fluids 6, 114003 (2021)_  [arXiv](https://arxiv.org/abs/2104.10115)  
+_Phys. Rev. Fluids 6, 114003 (2021)_  [[arXiv](https://arxiv.org/abs/2104.10115)]
 
 ## 2020
 * [Droplet Transport by Bendotaxis](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)  

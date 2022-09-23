@@ -30,8 +30,6 @@ main:
     url: /code/
   - title: "CV"
     url: /CV/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Schematics"
     url: /schematics/
 
