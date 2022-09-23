@@ -10,30 +10,50 @@ header:
 #last_modified_at: 2021-02-05T20:54:41-05:00
 #toc: true
 ---
-## Quantifying the impact of ENSO of West Antarctic Ice Sheet retreat
-<img align = "right" src="../assets/images/ensowais.jpg" alt="" title="" width="450" />
 
-Recent studies highlight the influence of El Niño Southern Oscillation (ENSO) on the rate of ice loss from West Antarctica. As part of the ENSOWAIS project, I aim to quantify the probability that (1) 20th Century retreat of the West Antarctic Ice sheet was triggered by ENSO, (2) sequential La Niña events could halt the retreat happening now, and (3) formally attribute the changes in Western Antarctica to ENSO or anthropogenic trends in zonal winds.
+I use numerical, statistical, and analytic methods to answer questions relating to the cryosphere. I use models, from simple schematic models to large general circulation models, to address questions relating to the changes we observe and to simulate those that may occur in the future.
 
+## Ice Shelf Collapse and Extreme Events
+<img align = "right" src="../assets/schematics/shelf_feedbacks.png" alt="" title="" width="450" />
 
-## How does the geometry of ice shelf cavities affect melt rates?
-<img align = "left" src="../assets/images/cavity.jpg" alt="" title="" width="350" />
-The geometry of melt rate cavities is not static: e.g. ice dynamics result in changes in the shape of the ice shelf draft, and calving reduces the extent of ice shelves. Such changes in geometry are sometimes overlooked as a driver on changes in melt rate, and are rarely accounted for in parametrizations of melt rates, which are required in century scale simulations of West Antarctic Ice Sheet Retreat.
+Ice shelves play an integral role in modulating sea level rise by buttressing the adjoining grounded ice. I am interested in understanding the processes, in particular, melting, fracture, and damage which might promote their collapse. 
+
+More broadly, ice shelf collapse is an example of a (possibly) low likelihood, high impact event; understanding such events allows us to constrain high end scenarios under future warming.
 
 #### Publications
-* The Influence of Pine Island Ice Shelf Calving on Melting ([essoar preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1)), **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt, P. R. Holland
+* A Short Shelf Life? Feedbacks Promote Ice Shelf Collapse _in prep_ 
+**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland   
+* [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)
+**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
+_Journal of Geophysical Research: Oceans, 127 (2022)_  ([essoar](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1))  
+
+
+## Sea Level Rise
+The Antarctic and Greenland ice sheets represent the biggest uncertainties in future sea level rise projections. By studing the behaviour of these ice sheets on both small and large scales, I hope to contribute to improve future predictions of ice sheet mass loss.
+
+### From small scales...
+In climate models, many processes are parametrized for computation tractability. In ice sheet models in particular, these are often related to melting, both at the grounding line and on the ice shelf itself. I use reduced complexity models, asymptotic methods, and ocean models to try to constrain these processes.
+
+#### Publications
 * [Asymptotic Analysis of Subglacial Plumes in Stratified Environment](hhttps://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846), **A. T. Bradley**, C. R. Williams, A. Jenkins, R. Arthern
 
-## Ice Sheet Modelling
-<img align = "right" src="../assets/images/icemodelling.png" alt="" title="" width="450" height="400" />
-Ice sheet models do not have a reputation for being particularly accessible. To address this, I have, alongside modellers at BAS, been developing 'WAVI.jl', the first hybrid ice sheet model written in Julia. WAVI.jl is fast and flexible enough to be used by researchers, yet simple and friendly enough to be accessible to students and first time programmers.
+### ...to large scales
+We can use Bayesian calibration methods to refine predictions of future Antarctic ice sheet loss. In my current project, I am to quantify the impact of the El-Niño Southern Oscillation on the past and future rate of ice loss from West Antarctica. 
 
 #### Publications
-* WAVI.jl: Ice Sheet Modelling in Julia [forthcoming], **A. T. Bradley** and R. Arthern 
+* WAVI.jl: Ice Sheet Modelling in Julia, _in prep_, **A. T. Bradley**, R. J. Arthern, D. T. Bett, C. R. Williams, J. Byrne
+
+## Cryosphere Attribution 
+Attribution science seeks to describe, quantitatively, the effect of climate change on weather events. Given the long timescales involved, ice sheet evolution can also be considered a "weather event". Despite its ubiquity in images of climate change, there has been no formal attribution of changes to the Antarctic or Greenland ice sheets to climate change.   
+
+#### Publications
+* A Bayesian Framework for Quantifying the role of Anthropogenic Climate Change in Antarctic Retreat, _in prep_
+**A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
+
 
 ## Droplet Dynamics
 <img align = "left" src="../assets/images/bendotaxis_image.jpg" alt="" title="" width="450" height="400" />
-My dPhil was concerned with  *bendotaxis*, an elastocapillary droplet transport mechanism that is both passive (i.e. requires no external energy input) and, surprisingly, moves droplets in the same direction regardless of whether they wet the channel or not.
+My PhD was concerned with  *bendotaxis*, an elastocapillary droplet transport mechanism that is both passive (i.e. requires no external energy input) and, surprisingly, moves droplets in the same direction regardless of whether they wet the channel or not.
 
 This work was undertaken under the fantastic supervision of [Prof. Dominic Vella](https://people.maths.ox.ac.uk/vella/index.html) and [Prof. Ian Hewitt](https://people.maths.ox.ac.uk/hewitt/).
 
