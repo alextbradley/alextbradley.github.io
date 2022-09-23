@@ -11,7 +11,7 @@ header:
 #toc: true
 ---
 
-I use numerical, statistical, and analytic methods to answer questions relating to the cryosphere. I use models, from simple schematic models to large general circulation models, to address questions relating to the changes we observe and to simulate those that may occur in the future.
+I use numerical, statistical, and analytic methods to answer questions relating to the cryosphere. I use models, from simple schematic models to large general circulation models, to address questions relating to the changes we observe and to simulate those that may occur in the future. I am also interested in the public policy implications associated with a changing cryosphere.
 
 ## Ice Shelf Collapse and Extreme Events
 <img align = "right" src="../assets/schematics/shelf_feedbacks.png" alt="" title="" width="450" />
