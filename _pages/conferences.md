@@ -1,5 +1,6 @@
 ---
 permalink: /talks/
+classes: wide
 title: "Seminars and Conference Presentations"
 excerpt: "Here is a list of seminars and conference presentations I have given."
 
