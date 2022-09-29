@@ -7,7 +7,9 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 #last_modified_at: 2021-02-05T20:54:41-05:00
 #toc: true
 ---
-Below is a list of seminars and conference presentations I have given:
+Below is a list of seminars and conference presentations I have given (or will give soon)
+* 10/2022 Cambridge Zero Climate Change Festival, Cambridge, UK (panel discussion host)
+* 10/2022 (Invited) Cryosphere Seminar (Geoscience & Remote Sensing department), TU Delft, Netherlands
 * 09/2022 Forum for Research into Ice Shelf Processes, Northumbria, UK
 * 09/2022 International Glaciological Society British Branch Meeting, Edinburgh, UK
 * 05/2022 [EGU General Assembly, Vienna, Austria](https://meetingorganizer.copernicus.org/EGU22/EGU22-1118.html)
