@@ -17,11 +17,17 @@ A full list of publications can also be found on [Google Scholar](https://schola
 **A. T. Bradley**, I. J. Hewitt, D. Vella  
 *in review* [[arXiv](https://arxiv.org/abs/2201.01103)]
 
-* WAVI.jl: An ice sheet model, written in Julia  
+* WAVI.jl: Ice Sheet Modelling in Julia
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
 
 * A Bayesian Framework for Quantifying the role of Anthropogenic Climate Change in Antarctic Retreat.  
 **A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
+
+* Geometric Feedbacks on Grounding Zone Seawater Intrusions  
+**A. T. Bradley**, I. J. Hewitt
+
+* Ice Dynamical and Melt Driven Speed-up of Pine Island after Calving
+**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland 
 
 ## 2022
 * [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)
