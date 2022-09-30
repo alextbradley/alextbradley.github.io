@@ -10,7 +10,7 @@ header:
 #last_modified_at: 2021-02-05T20:54:41-05:00
 #toc: true
 ---
-A full list of publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=2zVbnAkAAAAJ&hl=en). Note that all of my first author publications are freely available on preprint servers (arXiv/essoar) in their 'accepted' format, which can be found here. If you don't have access to any article listed here, and would like access, please don't hesitate to [send me an email](mailto:alextbradley@gmail.com).
+A full list of publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=2zVbnAkAAAAJ&hl=en). Note that all of my first author publications are freely available on preprint servers (arXiv/essoar) in their 'accepted' format, which can be found on this page. If you don't have access to any article listed here, and would like access, please don't hesitate to [send me an email](mailto:alextbradley@gmail.com).
 
 ## Forthcoming 
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
@@ -26,7 +26,7 @@ A full list of publications can also be found on [Google Scholar](https://schola
 * Geometric Feedbacks on Grounding Zone Seawater Intrusions  
 **A. T. Bradley**, I. J. Hewitt
 
-* Ice Dynamical and Melt Driven Speed-up of Pine Island after Calving
+* Ice Dynamical and Melt Driven Speed-up of Pine Island after Calving   
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland 
 
 ## 2022
