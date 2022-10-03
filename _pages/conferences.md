@@ -8,6 +8,7 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 #toc: true
 ---
 Below is a list of seminars and conference presentations I have given (or will give soon)
+* 10/2022 (**Invited**) British Antarctic Survey 'Paper of the Month' Presentation, Cambridge, UK
 * 10/2022 Cambridge Zero Climate Change Festival, Cambridge, UK (panel discussion host)
 * 10/2022 (**Invited**) Cryosphere Seminar (Geoscience & Remote Sensing department), TU Delft, Netherlands
 * 09/2022 Forum for Research into Ice Shelf Processes, Northumbria, UK
