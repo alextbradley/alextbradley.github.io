@@ -45,7 +45,7 @@ _Nature Communications 13, 306 (2022)_
 ## 2021
 * [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)
 **A. T. Bradley**, I. J. Hewitt and D. Vella  
-_Phys. Rev. Fluids 6, 114003 (2021)_  [[arXiv](https://arxiv.org/abs/2104.10115)]
+_Phys. Rev. Fluids 6, 114003 (2021)_  [[arXiv](https://arxiv.org/abs/2104.10115)] (Also highlighted as an editor's suggestion)
 
 ## 2020
 * [Droplet Transport by Bendotaxis](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)  
