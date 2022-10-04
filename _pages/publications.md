@@ -30,11 +30,11 @@ A full list of publications can also be found on [Google Scholar](https://schola
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland 
 
 ## 2022
-* [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)
+* [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
 _Journal of Geophysical Research: Oceans, 127 (2022)_  [[essoar](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1)] 
 
-*  [Asymptotic analysis of subglacial plumes in stratified environments](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846)
+*  [Asymptotic analysis of subglacial plumes in stratified environments](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846)  
 **A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
 _Proc. R. Soc. A. 478:20210846, (2022)_  [[arXiv](https://arxiv.org/abs/2103.09003)]  
 
@@ -55,7 +55,7 @@ _PhD Thesis, University of Oxford (2020)_  [[ORA Record](https://ora.ox.ac.uk/ob
 ## 2019
 * [Wettability-independent droplet transport by Bendotaxis](https://doi.org/10.1103/PhysRevLett.122.074503)  
 **A. T. Bradley**, F. Box, I. J. Hewitt and D. Vella  
-_Phys. Rev. Lett. 122 074503 (2019)_  [[arXiv](http://arxiv.org/abs/1809.10923)]
+_Phys. Rev. Lett. 122 074503 (2019)_  [[arXiv](http://arxiv.org/abs/1809.10923)] [[press](press.md#bendotaxis)]
 
 
 ## Other
