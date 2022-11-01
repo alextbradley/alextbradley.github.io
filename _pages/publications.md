@@ -27,7 +27,8 @@ A full list of publications can also be found on [Google Scholar](https://schola
 **A. T. Bradley**, I. J. Hewitt
 
 * Ice Dynamical and Melt Driven Speed-up of Pine Island after Calving   
-**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland [[EarthArXiv](https://eartharxiv.org/repository/view/4644/)]
+**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
+*in review* [[EarthArXiv](https://eartharxiv.org/repository/view/4644/)]
 
 ## 2022
 * [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)  
