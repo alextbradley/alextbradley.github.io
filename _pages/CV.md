@@ -17,7 +17,8 @@ classes: wide
 *department* British Antarctic Survey, High Cross, Madingley Road, Cambridge, CB3 0ET
 
 ### Current Position
-Postdoctoral researcher, Ice Dynamics and Paleoclimate Group, British Antarctic Survey
+Postdoctoral researcher, Ice Dynamics and Paleoclimate Group, British Antarctic Survey  
+Darwin David MacKay Research Associate, University of Cambridge
 
 ### Education
 **2016-2020**
@@ -43,6 +44,7 @@ See [publications](publications.md)
 See [seminars and conference presentations](conferences.md)
 
 ### Awards and Prizes
+See [awards and prizes](awards.md)
 
 ### Outreach
 See [outreach activities](outreach.md)
