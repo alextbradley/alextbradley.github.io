@@ -9,6 +9,7 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 ---
 Below is a list of seminars and conference presentations I have given (or will give soon)
 * 12/2022 (**Invited**) Maths on Ice Forum, Online
+* 11/2022 BAS "Conversations on Privilege" series, Cambridge, UK
 * 11/2022 (**Invited**) Climate Law and Governance Day at COP27, Sharm El Sheikh, Egypt
 * 10/2022 (**Invited**) British Antarctic Survey 'Paper of the Month' Presentation, Cambridge, UK
 * 10/2022 Cambridge Zero Climate Change Festival, Cambridge, UK (panel discussion host) [[watch]](https://www.youtube.com/watch?v=IkiWSKu-HHA)
