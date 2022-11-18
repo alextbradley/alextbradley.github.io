@@ -32,5 +32,5 @@ An incredibly thorough examination of the discources white males engage with in 
 * [How well-intentioned white male physicists maintain ignorance of inequity and justify inaction](https://arxiv.org/abs/2210.03522)  
 
 
-## Experiences of minorities/underrespresented groups
-[Breaking the binary by coming out as a trans scientist](https://www.nature.com/articles/d41586-021-00521-1)  
+## Experiences of minorities/under-represented groups
+* [Breaking the binary by coming out as a trans scientist](https://www.nature.com/articles/d41586-021-00521-1)  
