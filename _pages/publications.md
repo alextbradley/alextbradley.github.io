@@ -18,7 +18,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 ### Forthcoming
 * Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
 **A. T. Bradley**, I. J. Hewitt, D. Vella  
-*accepted in Journal of Fluid Mechanics* [[arXiv](https://arxiv.org/abs/2201.01103)]
+*in press at Journal of Fluid Mechanics* [[arXiv](https://arxiv.org/abs/2201.01103)]
 
 * WAVI.jl: Ice Sheet Modelling in Julia
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
@@ -26,10 +26,10 @@ Non-specialist articles, many written by science journalists, about some of my r
 * A Bayesian Framework for Quantifying the role of Anthropogenic Climate Change in Antarctic Retreat.  
 **A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
 
-* Geometric Feedbacks on Grounding Zone Seawater Intrusions  
+* Tipping point behaviour of submarine melting in ice-sheet grounding zones  
 **A. T. Bradley**, I. J. Hewitt
 
-* Ice Dynamical and Melt Driven Speed-up of Pine Island after Calving   
+* The ice-dynamic and melting response of Pine Island Ice Shelf to calving   
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
 *in review* [[EarthArXiv](https://eartharxiv.org/repository/view/4644/)]
 
