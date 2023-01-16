@@ -16,10 +16,6 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 ## Peer Reviewed Publications
 ### Forthcoming
-* Bendocapillary Instability of Liquid in a Flexible-Walled Channel  
-**A. T. Bradley**, I. J. Hewitt, D. Vella  
-*in press at Journal of Fluid Mechanics* [[arXiv](https://arxiv.org/abs/2201.01103)]
-
 * WAVI.jl: Ice Sheet Modelling in Julia
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
 
@@ -34,6 +30,10 @@ Non-specialist articles, many written by science journalists, about some of my r
 *in review* [[EarthArXiv](https://eartharxiv.org/repository/view/4644/)]
 
 ### Published
+* [Bendocapillary Instability of Liquid in a Flexible-Walled Channel](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bendocapillary-instability-of-liquid-in-a-flexiblewalled-channel/BC9E4559D7724B7E045509BA3BAB216D)
+**A. T. Bradley**, I. J. Hewitt, D. Vella  
+*Journal of Fluid Mechanics, 955 (2023)* [[arXiv](https://arxiv.org/abs/2201.01103)]. 
+
 * [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
 _Journal of Geophysical Research: Oceans, 127 (2022)_  [[essoar](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1)] [[press](press.md#Calving)]
