@@ -30,7 +30,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 *in review* [[EarthArXiv](https://eartharxiv.org/repository/view/4644/)]
 
 ### Published
-* [Bendocapillary Instability of Liquid in a Flexible-Walled Channel](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bendocapillary-instability-of-liquid-in-a-flexiblewalled-channel/BC9E4559D7724B7E045509BA3BAB216D)
+* [Bendocapillary Instability of Liquid in a Flexible-Walled Channel](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bendocapillary-instability-of-liquid-in-a-flexiblewalled-channel/BC9E4559D7724B7E045509BA3BAB216D)  
 **A. T. Bradley**, I. J. Hewitt, D. Vella  
 *Journal of Fluid Mechanics, 955 (2023)* [[arXiv](https://arxiv.org/abs/2201.01103)]. 
 
