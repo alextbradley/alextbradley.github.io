@@ -9,7 +9,7 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 ---
 Below is a list of seminars and conference presentations I have given (or will give soon)
 * 02/2023 Potsdam Institute for Climate, Postdam, Germany
-* 02/2023 (**Invited**) Georgia Tech Ice Group, Online
+* 02/2023 (**Invited**) Georgia Tech Ice Group, Online <a href="https:/alextbradley.github.io/slides/GTIceV2.pdf" target="_blank">PDF.</a>
 * 12/2022 (**Invited**) Maths on Ice Forum, Online
 * 11/2022 BAS "Conversations on Privilege" series, Cambridge, UK
 * 11/2022 (**Invited**) Climate Law and Governance Day at COP27, Sharm El Sheikh, Egypt
