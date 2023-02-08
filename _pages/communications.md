@@ -55,7 +55,7 @@ Oxford, United Kingdom
 * 2019-2021 STEM Ambassador with [STEM Learning](https://www.stem.org.uk/)  
 * 11/2019 'Super Science Saturday' at [Oxford University Museum of Natural History](https://www.oumnh.ox.ac.uk/)  
 * 05/2019 Exhibitor at [Oxford Maths Fesitval](https://mathsfest.web.ox.ac.uk/) 
-* __2018-2019 Ambassador for [Lincoln College, Oxford](https://lincoln.ox.ac.uk/)__  
+* 2018-2019 Ambassador for [Lincoln College, Oxford](https://lincoln.ox.ac.uk/)
 * 2018-2019 [UNIQ Conferences](https://www.uniq.ox.ac.uk/) at the University of Oxford
 * 2018 Freelance Editor, [Oxford University Press](https://global.oup.com/)
 * 05/2018 Exhibitor at [Oxford Maths Fesitval](https://mathsfest.web.ox.ac.uk/) 
