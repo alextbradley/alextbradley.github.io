@@ -1,3 +1,4 @@
+---
 permalink: /communications/
 title: "Communications"
 classes: wide
@@ -45,9 +46,17 @@ Oxford, United Kingdom
 * 12/2017 Oxford Soft Matter Group Seminar, University of Oxford, United Kingdom
 
 ### Outreach
-
+* 01/2023 Filming for documentary series 'Facing Forces of Nature' by [Maximus Film](https://www.maximusfilm.de/en)  
+* 2019-2021 STEM Ambassador with [STEM Learning](https://www.stem.org.uk/)  
+* 11/2019 'Super Science Saturday' at [Oxford University Museum of Natural History](https://www.oumnh.ox.ac.uk/)  
+* 05/2019 Exhibitor at [Oxford Maths Fesitval](https://mathsfest.web.ox.ac.uk/) 
+* __2018-2019 Ambassador for [Lincoln College, Oxford](https://lincoln.ox.ac.uk/)__ 
+College outreach activities, such as college tours, school visits and subject taster sessions particularly aimed at students from Lincolnshire, an under-represented region amongst Oxford students.  
+* 2018-2019 [UNIQ Conferences](https://www.uniq.ox.ac.uk/) at the University of Oxford
+* 2018 Freelance Editor, [Oxford University Press](https://global.oup.com/)
+* 05/2018 Exhibitor at [Oxford Maths Fesitval](https://mathsfest.web.ox.ac.uk/) 
 
 
 ### Other Writing
-[Bendotaxis - when droplets are self-propelled in response to bending](https://www.maths.ox.ac.uk/node/31816)
-[Baromorphs: Shape Shifting by Inflating](https://softbites.org/2020/02/06/baromorphs-shape-shifting-by-inflating/)
+* [Bendotaxis - when droplets are self-propelled in response to bending](https://www.maths.ox.ac.uk/node/31816)
+* [Baromorphs: Shape Shifting by Inflating](https://softbites.org/2020/02/06/baromorphs-shape-shifting-by-inflating/)
