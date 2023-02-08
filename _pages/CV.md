@@ -47,7 +47,7 @@ See [seminars and conference presentations](./communications.md/#talksconference
 See [awards and prizes](awards.md)
 
 ### Outreach
-See [outreach activities](communications.md#outreach)
+See [outreach activities](./communications.md/#outreach)
 
 ### Teaching Experience
 #### Small Group Teaching
