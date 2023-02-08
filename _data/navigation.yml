@@ -26,12 +26,12 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
- # - title: "Code"
- #   url: /code/
+  - title: "Communications"
+    url: /communications/
   - title: "CV"
     url: /CV/
- # - title: "Schematics"
- #   url: /schematics/
+  - title: "Press"
+    url: /press/
 
 
 # documentation links
