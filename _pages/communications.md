@@ -46,6 +46,11 @@ Oxford, United Kingdom
 * 12/2017 Oxford Soft Matter Group Seminar, University of Oxford, United Kingdom
 
 ### Outreach
+* 02/2023 Co-organizer of [Polar Pint of Science](https://pintofscience.co.uk/event/pole-to-pole-perspectives-of-earths-coldest-places), the UK Polar Network Pint of Science event.
+* 10/2023 Organzier and Host of 'Can we sue our way out of the climate crisis?' at the [Cambridge Zero Climate Change Festival](https://climatechangefestival.zero.cam.ac.uk/)
+* 2022-2023 Committee Member of [UK Polar Network](https://polarnetwork.org/)
+* 03/2021 Volunteer Host in the [Polar Horizons programme](https://www.bas.ac.uk/project/diversity-in-uk-polar-science-initiative/uk-polar-horizons-2021/)
+* 2020-Present Admin for @AntarcticNews on Twitter (> 10k followers)
 * 01/2023 Filming for documentary series 'Facing Forces of Nature' by [Maximus Film](https://www.maximusfilm.de/en)  
 * 2019-2021 STEM Ambassador with [STEM Learning](https://www.stem.org.uk/)  
 * 11/2019 'Super Science Saturday' at [Oxford University Museum of Natural History](https://www.oumnh.ox.ac.uk/)  
