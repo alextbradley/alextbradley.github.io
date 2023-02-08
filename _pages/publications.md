@@ -14,8 +14,8 @@ A full list of publications can also be found on [Google Scholar](https://schola
 
 Non-specialist articles, many written by science journalists, about some of my research can be found [here](press.md). 
 
-## Peer Reviewed Publications
-### Forthcoming
+### Peer Reviewed Publications
+#### Forthcoming
 * WAVI.jl: Ice Sheet Modelling in Julia
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
 
@@ -29,7 +29,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
 *in review* [[EarthArXiv](https://eartharxiv.org/repository/view/4644/)]
 
-### Published
+#### Published
 * [Bendocapillary Instability of Liquid in a Flexible-Walled Channel](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bendocapillary-instability-of-liquid-in-a-flexiblewalled-channel/BC9E4559D7724B7E045509BA3BAB216D)  
 **A. T. Bradley**, I. J. Hewitt, D. Vella  
 *Journal of Fluid Mechanics, 955 (2023)* [[arXiv](https://arxiv.org/abs/2201.01103)]. 
@@ -59,7 +59,10 @@ _PhD Thesis, University of Oxford (2020)_  [[ORA Record](https://ora.ox.ac.uk/ob
 _Phys. Rev. Lett. 122 074503 (2019)_  [[arXiv](http://arxiv.org/abs/1809.10923)] [[press](press.md#Bendotaxis)]
 
 
-## Other Writing and Reports
+### Other Scientific Writing
 * [Marine Ice Sheet Instabilities](https://www.dropbox.com/s/m92l444url7w8ed/619763.pdf?dl=0)  
 **A. T. Bradley**  
 _Masters Thesis, University of Oxford (2016)_
+
+### Other Writing
+See [other writing](communications.md#other-writing)
