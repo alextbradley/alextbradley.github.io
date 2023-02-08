@@ -41,13 +41,13 @@ Ice dynamics, ice-ocean interactions, modelling coupled ice-ocean systems. (Prev
 See [publications](publications.md)
 
 ### Seminars and Conference Presentations
-See [seminars and conference presentations](conferences.md)
+See [seminars and conference presentations](communications.md#talksconferences)
 
 ### Awards and Prizes
 See [awards and prizes](awards.md)
 
 ### Outreach
-See [outreach activities](outreach.md)
+See [outreach activities](communications.md#outreach)
 
 ### Teaching Experience
 #### Small Group Teaching
