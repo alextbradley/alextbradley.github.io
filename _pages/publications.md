@@ -47,7 +47,7 @@ _Proc. R. Soc. A. 478:20210846, (2022)_  [[arXiv](https://arxiv.org/abs/2103.090
 S.-T. Yoon, W. S. Lee, S. Nam, C.-K. Lee, S. Yun, K. Heywood, L. Boehme, Y. Zheng, I. Lee, Y. Choi, A. Jenkins, E. K. Jin, R. Larter, J. Wellner, P. Dutrieux and **A. T. Bradley**  
 _Nature Communications 13, 306 (2022)_
 
-* [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)
+* [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)  
 **A. T. Bradley**, I. J. Hewitt and D. Vella  
 _Phys. Rev. Fluids 6, 114003 (2021)_  [[preprint](https://arxiv.org/abs/2104.10115)] (Also highlighted as an editor's suggestion)
 
