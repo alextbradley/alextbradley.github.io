@@ -27,7 +27,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 
 #### Published
-* [The ice-dynamic and melting response of Pine Island Ice Shelf to calving](https://www.cambridge.org/core/journals/annals-of-glaciology/article/ice-dynamic-and-melting-response-of-pine-island-ice-shelf-to-calving/46ABBC366EA9B8312ADD0A43DA24B1A6)
+* [The ice-dynamic and melting response of Pine Island Ice Shelf to calving](https://www.cambridge.org/core/journals/annals-of-glaciology/article/ice-dynamic-and-melting-response-of-pine-island-ice-shelf-to-calving/46ABBC366EA9B8312ADD0A43DA24B1A6)  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
 *Annals of Glaciology  (2023)* [[preprint](https://eartharxiv.org/repository/view/4644/)]. 
 
