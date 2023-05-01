@@ -41,7 +41,7 @@ _Journal of Geophysical Research: Oceans, 127 (2022)_  [[preprint](https://www.e
 
 *  [Asymptotic analysis of subglacial plumes in stratified environments](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846)  
 **A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
-_Proc. R. Soc. A. 478:20210846, (2022)_  [[arXiv](https://arxiv.org/abs/2103.09003)]  
+_Proc. R. Soc. A. 478:20210846, (2022)_  [[preprint](https://arxiv.org/abs/2103.09003)]  
 
 *  [Ice front retreat reconfigures meltwater-driven gyres modulating ocean heat delivery to an Antarctic ice shelf](https://www.nature.com/articles/s41467-022-27968-8)  
 S.-T. Yoon, W. S. Lee, S. Nam, C.-K. Lee, S. Yun, K. Heywood, L. Boehme, Y. Zheng, I. Lee, Y. Choi, A. Jenkins, E. K. Jin, R. Larter, J. Wellner, P. Dutrieux and **A. T. Bradley**  
