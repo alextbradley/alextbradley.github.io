@@ -19,24 +19,25 @@ Non-specialist articles, many written by science journalists, about some of my r
 * WAVI.jl: Ice Sheet Modelling in Julia
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
 
-* A Bayesian Framework for Quantifying the role of Anthropogenic Climate Change in Antarctic Retreat.  
+* How do we decide whether anthropogenic climate change has contributed to sea level rise from Antarctica?
 **A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
 
 * Tipping point behaviour of submarine melting in ice-sheet grounding zones  
 **A. T. Bradley**, I. J. Hewitt
 
-* The ice-dynamic and melting response of Pine Island Ice Shelf to calving   
-**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
-*in review* [[EarthArXiv](https://eartharxiv.org/repository/view/4644/)]
 
 #### Published
+* [The ice-dynamic and melting response of Pine Island Ice Shelf to calving](https://www.cambridge.org/core/journals/annals-of-glaciology/article/ice-dynamic-and-melting-response-of-pine-island-ice-shelf-to-calving/46ABBC366EA9B8312ADD0A43DA24B1A6)
+**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
+*Annals of Glaciology  (2023) * [[preprint](https://eartharxiv.org/repository/view/4644/)]
+
 * [Bendocapillary Instability of Liquid in a Flexible-Walled Channel](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bendocapillary-instability-of-liquid-in-a-flexiblewalled-channel/BC9E4559D7724B7E045509BA3BAB216D)  
 **A. T. Bradley**, I. J. Hewitt, D. Vella  
-*Journal of Fluid Mechanics, 955 (2023)* [[arXiv](https://arxiv.org/abs/2201.01103)]. 
+*Journal of Fluid Mechanics, 955 (2023)* [[preprint](https://arxiv.org/abs/2201.01103)]. 
 
 * [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
-_Journal of Geophysical Research: Oceans, 127 (2022)_  [[essoar](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1)] [[press](press.md#Calving)]
+_Journal of Geophysical Research: Oceans, 127 (2022)_  [[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1)] [[press](press.md#Calving)]
 
 *  [Asymptotic analysis of subglacial plumes in stratified environments](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846)  
 **A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
@@ -48,7 +49,7 @@ _Nature Communications 13, 306 (2022)_
 
 * [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)
 **A. T. Bradley**, I. J. Hewitt and D. Vella  
-_Phys. Rev. Fluids 6, 114003 (2021)_  [[arXiv](https://arxiv.org/abs/2104.10115)] (Also highlighted as an editor's suggestion)
+_Phys. Rev. Fluids 6, 114003 (2021)_  [[preprint](https://arxiv.org/abs/2104.10115)] (Also highlighted as an editor's suggestion)
 
 * [Droplet Transport by Bendotaxis](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)  
 **A. T. Bradley**  
@@ -56,7 +57,7 @@ _PhD Thesis, University of Oxford (2020)_  [[ORA Record](https://ora.ox.ac.uk/ob
 
 * [Wettability-independent droplet transport by Bendotaxis](https://doi.org/10.1103/PhysRevLett.122.074503)  
 **A. T. Bradley**, F. Box, I. J. Hewitt and D. Vella  
-_Phys. Rev. Lett. 122 074503 (2019)_  [[arXiv](http://arxiv.org/abs/1809.10923)] [[press](press.md#Bendotaxis)]
+_Phys. Rev. Lett. 122 074503 (2019)_  [[preprint](http://arxiv.org/abs/1809.10923)] [[press](press.md#Bendotaxis)]
 
 
 ### Other Scientific Writing
