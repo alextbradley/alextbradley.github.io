@@ -17,7 +17,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 ### Peer Reviewed Publications
 #### Forthcoming
 * WAVI.jl: Ice Sheet Modelling in Julia
-**A. T. Bradley**, R. Arthern, C. Rosie Williams, D. Bett
+**A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne
 
 * How do we decide whether anthropogenic climate change has contributed to sea level rise from Antarctica?
 **A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
