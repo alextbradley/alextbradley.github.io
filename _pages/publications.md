@@ -15,20 +15,24 @@ A full list of publications can also be found on [Google Scholar](https://schola
 Non-specialist articles, many written by science journalists, about some of my research can be found [here](press.md). 
 
 ### Peer Reviewed Publications
-#### Forthcoming
-* WAVI.jl: Ice Sheet Modelling in Julia
-**A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne
 
-* How do we decide whether anthropogenic climate change has contributed to sea level rise from Antarctica?
-**A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
+#### Submitted
+* WAVI.jl: Ice Sheet Modelling in Julia  
+**A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne  
 
-* Tipping point behaviour of submarine melting in ice-sheet grounding zones  
-**A. T. Bradley**, I. J. Hewitt
+* How do we decide whether anthropogenic climate change has contributed to sea level rise from Antarctica? [[preprint](https://eartharxiv.org/repository/view/5549/)]  
+**A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland  
+
+* Tipping point behaviour of submarine melting in ice-sheet grounding zones [[preprint](https://assets.researchsquare.com/files/rs-2924707/v1_covered_26f0196d-7a1a-4671-aa24-fa6d0ceb3fd4.pdf?c=1684370205)]  
+**A. T. Bradley**, I. J. Hewitt  
+
+* Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams [[preprint](https://tc.copernicus.org/preprints/tc-2023-77/tc-2023-77.pdf)]  
+D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
 
 
 #### Published
 * [The ice-dynamic and melting response of Pine Island Ice Shelf to calving](https://www.cambridge.org/core/journals/annals-of-glaciology/article/ice-dynamic-and-melting-response-of-pine-island-ice-shelf-to-calving/46ABBC366EA9B8312ADD0A43DA24B1A6)  
-**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
+**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. R. Holland  
 *Annals of Glaciology  (2023)* [[preprint](https://eartharxiv.org/repository/view/4644/)]  
 
 * [Bendocapillary Instability of Liquid in a Flexible-Walled Channel](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bendocapillary-instability-of-liquid-in-a-flexiblewalled-channel/BC9E4559D7724B7E045509BA3BAB216D)  
