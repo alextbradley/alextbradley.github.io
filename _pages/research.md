@@ -13,16 +13,18 @@ header:
 
 I apply numerical, statistical, and analytic methods to help answer questions relating to the cryosphere. I use models, from simple schematic models to large general circulation models, to address questions relating to the changes we observe and to simulate those that may occur in the future. I am also interested in the public policy implications associated with a changing cryosphere.
 
-## Ice Shelf Collapse and Extreme Events
+## Ice Shelf Processes: Melting and Calving
 <img align = "right" src="../assets/schematics/shelf_feedbacks.png" alt="" title="" width="450" />
 
-Ice shelves play an integral role in modulating sea level rise by buttressing the adjoining grounded ice. I am interested in understanding the processes (e.g. melting, fracture, and damage) which might promote their collapse. 
+Ice shelves play an integral role in modulating sea level rise by buttressing the adjoining grounded ice. Ice shelves lose mass predominantly via calving and melting, which have typically been assumed to be largely independent of one another. However, calving affects ice shelf cavities, with the potential to change melt rates and changes in melt rates change ice shelf properties, with the potential to alter calving and crevassing processes. I am trying to understand how calving and melting interact, and what are the implications of these for ice dynamics? 
 
 More broadly, ice shelf collapse is an example of a (possibly) low likelihood, high impact event; understanding such events allows us to constrain high end ice loss under future warming scenarios.
 
 #### Publications
-* A Short Shelf Life? Feedbacks Promote Ice Shelf Collapse _in prep_ 
-**A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland   
+* Timescales of ice shelf collapse via crevassing _in prep_
+**A. T. Bradley**, C. Y. Lai, N. Coffey
+* [The ice dynamic and melting response of Pine Island Ice Shelf to calving](https://www.cambridge.org/core/journals/annals-of-glaciology/article/ice-dynamic-and-melting-response-of-pine-island-ice-shelf-to-calving/46ABBC366EA9B8312ADD0A43DA24B1A6)
+**A. T. Bradley**, J. De Rydt, D. Bett, P. Dutrieux and P. Holland   
 * [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
 _Journal of Geophysical Research: Oceans, 127 (2022)_  ([essoar](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1))  
@@ -35,7 +37,9 @@ The Antarctic and Greenland ice sheets represent the biggest uncertainties in fu
 In climate models, many processes are parametrized for computation tractability. In ice sheet models in particular, these are often related to melting, both at the grounding line and on the ice shelf itself. I use reduced complexity models, asymptotic methods, and ocean models to try to constrain these processes.
 
 #### Publications
-* [Asymptotic Analysis of Subglacial Plumes in Stratified Environment](hhttps://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846), **A. T. Bradley**, C. R. Williams, A. Jenkins, R. Arthern
+* Tipping point behaviour of submarine melting in ice-sheet grounding zones _in review_, **A. T. Bradley** and I. J. Hewitt
+
+* [Asymptotic Analysis of Subglacial Plumes in Stratified Environment](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846), **A. T. Bradley**, C. R. Williams, A. Jenkins, R. Arthern
 
 ### ...to large scales
 Bayesian calibration methods can be used to refine predictions of future Antarctic ice sheet loss. Currently, I am applying such methods to help to quantify the impact of the El-Niño Southern Oscillation on the past and future rate of ice loss from West Antarctica. 
@@ -44,10 +48,10 @@ Bayesian calibration methods can be used to refine predictions of future Antarct
 * WAVI.jl: Ice Sheet Modelling in Julia, _in prep_, **A. T. Bradley**, R. J. Arthern, D. T. Bett, C. R. Williams, J. Byrne
 
 ## Cryosphere Attribution 
-Attribution science seeks to describe, quantitatively, the effect of climate change on weather events. Given the long timescales involved, ice sheet evolution can also be considered a "weather event". However, despite its ubiquity in images of climate change, there has been no formal attribution of changes to the Antarctic or Greenland ice sheets to climate change.   
+Attribution science seeks to describe, quantitatively, the effect of climate change on weather events. Given the long timescales involved, ice sheet evolution can also be considered a "weather event". However, despite its ubiquity in images of climate change, there has been no formal attribution of changes to the Antarctic or Greenland ice sheets to climate change. 
 
 #### Publications
-* A Bayesian Framework for Quantifying the role of Anthropogenic Climate Change in Antarctic Retreat, _in prep_
+* How do we decide whether anthropogenic climate change has contributed to sea level rise from Antarctica?, _in review_
 **A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
 
 
