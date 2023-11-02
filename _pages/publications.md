@@ -16,18 +16,23 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 ### Peer Reviewed Publications
 
-#### Submitted
+#### In Review
 * WAVI.jl: Ice Sheet Modelling in Julia  
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne  
+*in review at Journal of Open Source Software*
 
 * How do we decide whether anthropogenic climate change has contributed to sea level rise from Antarctica? [[preprint](https://eartharxiv.org/repository/view/5549/)]  
 **A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland  
+*in review at Nature Communications Earth and Environment*
 
 * Tipping point behaviour of submarine melting in ice-sheet grounding zones [[preprint](https://assets.researchsquare.com/files/rs-2924707/v1_covered_26f0196d-7a1a-4671-aa24-fa6d0ceb3fd4.pdf?c=1684370205)]  
 **A. T. Bradley**, I. J. Hewitt  
+*in review at Nature Geoscience*
+  
 
 * Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams [[preprint](https://tc.copernicus.org/preprints/tc-2023-77/tc-2023-77.pdf)]  
-D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
+D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg
+*in review at The Cryosphere* 
 
 
 #### Published
