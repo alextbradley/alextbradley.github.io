@@ -31,7 +31,7 @@ Non-specialist articles, many written by science journalists, about some of my r
   
 
 * Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams [[preprint](https://tc.copernicus.org/preprints/tc-2023-77/tc-2023-77.pdf)]  
-D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg
+D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
 *in review at The Cryosphere* 
 
 
