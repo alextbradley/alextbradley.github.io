@@ -46,7 +46,7 @@ D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and 
 
 * [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
-_Journal of Geophysical Research: Oceans, 127 (2022)_  [[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10510805.1)] [[press](press.md#Calving)]
+_Journal of Geophysical Research: Oceans, 127 (2022)_  [[preprint](https://essopenarchive.org/doi/full/10.1002/essoar.10510805.1)] [[press](press.md#Calving)]
 
 *  [Asymptotic analysis of subglacial plumes in stratified environments](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846)  
 **A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
