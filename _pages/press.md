@@ -30,4 +30,4 @@ Below you will find links to non-specialist articles, many written by science jo
 [Wissenschaft aktuell](https://www.wissenschaft-aktuell.de/artikel/Autark_rinnende_Tropfen_1771015590677.html)   
 [Welt der Physik](https://www.weltderphysik.de/gebiet/materie/nachrichten/2019/wie-sich-tropfen-selbst-antreiben/)  
 [Physics](https://physics.aps.org/articles/v12/18)  
-[FYFD](http://fyfluiddynamics.com/post/183564997909)  
+[FYFD](https://fyfluiddynamics.com/2019/03/microfluidic-devices-such-as-those-used-by/)  
