@@ -13,6 +13,12 @@ header:
 Communications is the name I give to all output which isn't papers: talks/conferences, outreach, and other writing. If you have a better name for this, please let me know!
 
 ### Talks/Conferences
+* 04/2024 European Geophysical Union General Assembly, Vienna, Austria (poster)
+* 03/2024 (**Invited**) Icy Group seminar, Stanford University, USA 
+* 01/2024 (**Invited**) Future of Ice on Earth Group seminar, Northumbria University, UK
+* 12/2023 American Geophysical Union Annual Meeting, San Francisco, USA (three talks)
+* 10/2023 PROTECT Annual Meeting, Utrecht, Netherlands
+* 09/2023 International Glaciological Society British Branch Meeting, Cardiff, UK
 * 04/2023 EGU General Assembly 2023, Vienna, Austria. Poster: "Tipping point behaviour of submarine melting in ice-sheet grounding zones' (link to poster coming soon)
 * 04/2023 EGU General Assembly 2023, Vienna, Austria. Poster: "(How) can we attribute West Antarctic ice mass loss to climate change?" (link to poster coming soon) 
 * 02/2023 Potsdam Institute for Climate, Online
