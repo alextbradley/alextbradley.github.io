@@ -8,9 +8,11 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 #toc: true
 ---
 Below is a list of seminars and conference presentations I have given (or will give soon)
+* 04/2024 European Geophysical Union General Assembly, Vienna, Austria (poster)
 * 03/2024 (**Invited**) Icy Group seminar, Stanford University, USA 
 * 01/2024 (**Invited**) Future of Ice on Earth Group seminar, Northumbria University, UK
 * 12/2023 American Geophysical Union Annual Meeting, San Francisco, USA (three talks)
+* 10/2023 PROTECT Annual Meeting, Utrecht, Netherlands
 * 09/2023 International Glaciological Society British Branch Meeting, Cardiff, UK
 * 04/2023 European Geophysical Union General Assembly, Vienna, Austria (two posters)
 * 02/2023 Potsdam Institute for Climate, Postdam, Germany
