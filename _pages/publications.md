@@ -17,25 +17,24 @@ Non-specialist articles, many written by science journalists, about some of my r
 ### Peer Reviewed Publications
 
 #### In Review
-* WAVI.jl: Ice Sheet Modelling in Julia  
-**A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne  
-*in review at Journal of Open Source Software*
-
-* How do we decide whether anthropogenic climate change has contributed to sea level rise from Antarctica? [[preprint](https://eartharxiv.org/repository/view/5549/)]  
-**A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland  
-*in review at Nature Communications Earth and Environment*
-
-* Tipping point behaviour of submarine melting in ice-sheet grounding zones [[preprint](https://assets.researchsquare.com/files/rs-2924707/v1_covered_26f0196d-7a1a-4671-aa24-fa6d0ceb3fd4.pdf?c=1684370205)]  
-**A. T. Bradley**, I. J. Hewitt  
-*in review at Nature Geoscience*
-  
-
 * Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams [[preprint](https://tc.copernicus.org/preprints/tc-2023-77/tc-2023-77.pdf)]  
 D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
 *in review at The Cryosphere* 
 
 
 #### Published
+* Tipping point behaviour of submarine melting in ice-sheet grounding zones [[preprint](https://assets.researchsquare.com/files/rs-2924707/v1_covered_26f0196d-7a1a-4671-aa24-fa6d0ceb3fd4.pdf?c=1684370205)]  
+**A. T. Bradley**, I. J. Hewitt  
+*Accepted in Nature Geoscience*
+
+* [WAVI.jl: Ice Sheet Modelling in Julia](https://joss.theoj.org/papers/10.21105/joss.05584)  
+**A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne  
+*Journal of Open Source Software,  9(95), 5584 (2024)*
+
+* [A framework for estimating the anthropogenic part of Antarctica’s sea level contribution in a synthetic setting](https://www.nature.com/articles/s43247-024-01287-w) [[preprint](https://eartharxiv.org/repository/view/5549/)]  
+**A. T. Bradley**,  D. T. Bett, P. R. Holland, C. R. Williams, R. J. Arthern, J. De Rydt  
+*Nature Communications Earth and Environment, 5(121) (2024)*
+
 * [The ice-dynamic and melting response of Pine Island Ice Shelf to calving](https://www.cambridge.org/core/journals/annals-of-glaciology/article/ice-dynamic-and-melting-response-of-pine-island-ice-shelf-to-calving/46ABBC366EA9B8312ADD0A43DA24B1A6)  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. R. Holland  
 *Annals of Glaciology  (2023)* [[preprint](https://eartharxiv.org/repository/view/4644/)]  

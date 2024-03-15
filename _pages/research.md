@@ -45,13 +45,13 @@ In climate models, many processes are parametrized for computation tractability.
 Bayesian calibration methods can be used to refine predictions of future Antarctic ice sheet loss. Currently, I am applying such methods to help to quantify the impact of the El-Niño Southern Oscillation on the past and future rate of ice loss from West Antarctica. 
 
 #### Publications
-* WAVI.jl: Ice Sheet Modelling in Julia, _in prep_, **A. T. Bradley**, R. J. Arthern, D. T. Bett, C. R. Williams, J. Byrne
+* [WAVI.jl: Ice Sheet Modelling in Julia](https://joss.theoj.org/papers/10.21105/joss.05584) **A. T. Bradley**, R. J. Arthern, D. T. Bett, C. R. Williams, J. Byrne
 
 ## Cryosphere Attribution 
 Attribution science seeks to describe, quantitatively, the effect of climate change on weather events. Given the long timescales involved, ice sheet evolution can also be considered a "weather event". However, despite its ubiquity in images of climate change, there has been no formal attribution of changes to the Antarctic or Greenland ice sheets to climate change. 
 
 #### Publications
-* How do we decide whether anthropogenic climate change has contributed to sea level rise from Antarctica?, _in review_
+* [A framework for estimating the anthropogenic part of Antarctica’s sea level contribution in a synthetic setting])https://www.nature.com/articles/s43247-024-01287-w)
 **A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
 
 
