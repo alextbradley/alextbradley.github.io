@@ -31,9 +31,9 @@ D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and 
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne  
 *Journal of Open Source Software,  9(95), 5584 (2024)*
 
-* [A framework for estimating the anthropogenic part of Antarctica’s sea level contribution in a synthetic setting](https://www.nature.com/articles/s43247-024-01287-w) [[preprint](https://eartharxiv.org/repository/view/5549/)]  
+* [A framework for estimating the anthropogenic part of Antarctica’s sea level contribution in a synthetic setting](https://www.nature.com/articles/s43247-024-01287-w)  
 **A. T. Bradley**,  D. T. Bett, P. R. Holland, C. R. Williams, R. J. Arthern, J. De Rydt  
-*Nature Communications Earth and Environment, 5(121) (2024)*
+*Nature Communications Earth and Environment, 5(121) (2024)* [[preprint](https://eartharxiv.org/repository/view/5549/)]  
 
 * [The ice-dynamic and melting response of Pine Island Ice Shelf to calving](https://www.cambridge.org/core/journals/annals-of-glaciology/article/ice-dynamic-and-melting-response-of-pine-island-ice-shelf-to-calving/46ABBC366EA9B8312ADD0A43DA24B1A6)  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. R. Holland  
