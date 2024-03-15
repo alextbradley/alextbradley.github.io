@@ -51,7 +51,7 @@ Bayesian calibration methods can be used to refine predictions of future Antarct
 Attribution science seeks to describe, quantitatively, the effect of climate change on weather events. Given the long timescales involved, ice sheet evolution can also be considered a "weather event". However, despite its ubiquity in images of climate change, there has been no formal attribution of changes to the Antarctic or Greenland ice sheets to climate change. 
 
 #### Publications
-* [A framework for estimating the anthropogenic part of Antarctica’s sea level contribution in a synthetic setting])https://www.nature.com/articles/s43247-024-01287-w)
+* [A framework for estimating the anthropogenic part of Antarctica’s sea level contribution in a synthetic setting](https://www.nature.com/articles/s43247-024-01287-w)
 **A. T. Bradley**, R. J. Arthern, C. R. Williams, D. Bett, J. De Rydt, P. Holland 
 
 
@@ -65,7 +65,7 @@ This work was undertaken under the fantastic supervision of [Prof. Dominic Vella
 * [Wettability-independent droplet transport by Bendotaxis](https://doi.org/10.1103/PhysRevLett.122.074503), **A. T. Bradley**, F. Box, I. J. Hewitt and D. Vella, Phys. Rev. Lett. 122 074503 (2019)
 * [Droplet transport by bendotaxis](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f) [PhD Thesis], **A. T. Bradley**, University of Oxford, 2020
 * [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)  **A. T. Bradley**, I. J. Hewitt and D. Vella, Phys. Rev. Fluids 6, 114003 (2020)
-* Bendocapillary Instability of Liquid in a Flexible-Walled Channel ([arxiv preprint](https://arxiv.org/abs/2201.01103]  **A. T. Bradley**, I. J. Hewitt and D. Vella
+* [Bendocapillary Instability of Liquid in a Flexible-Walled Channel](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/bendocapillary-instability-of-liquid-in-a-flexiblewalled-channel/BC9E4559D7724B7E045509BA3BAB216D) **A. T. Bradley**, I. J. Hewitt and D. Vella
 
 #### Press
 * [physicsworld](https://physicsworld.com/a/droplets-move-through-narrow-channel-by-bending-the-walls/), [Nature Research Highlight](https://www.nature.com/articles/d41586-019-00701-0), [phys.org](https://phys.org/news/2019-02-liquid-channel.html), [Wissenschaft aktuell](https://www.wissenschaft-aktuell.de/artikel/Autark_rinnende_Tropfen_1771015590677.html), [Welt der Physik](https://www.weltderphysik.de/gebiet/materie/news/2019/wie-sich-tropfen-selbst-antreiben/), [Physics](https://physics.aps.org/articles/v12/18), [Oxford Mathematics Case Study](https://www.maths.ox.ac.uk/node/31816)
