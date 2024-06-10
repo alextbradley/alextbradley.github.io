@@ -16,15 +16,14 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 ### Peer Reviewed Publications
 
-#### Published
-* Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams [[preprint](https://tc.copernicus.org/preprints/tc-2023-77/tc-2023-77.pdf)]  
-D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
-*Accepted for publication in The Cryosphere* 
-
-
+#### Published  
 * Tipping point behaviour of submarine melting in ice-sheet grounding zones [[preprint](https://assets.researchsquare.com/files/rs-2924707/v1_covered_26f0196d-7a1a-4671-aa24-fa6d0ceb3fd4.pdf?c=1684370205)]  
 **A. T. Bradley**, I. J. Hewitt  
 *Accepted for publication in Nature Geoscience*
+
+* [Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams](https://tc.copernicus.org/articles/18/2653/2024/tc-18-2653-2024.html) [[preprint]([https://tc.copernicus.org/preprints/tc-2023-77/tc-2023-77.pdf](https://tc.copernicus.org/articles/18/2653/2024/tc-18-2653-2024.pdf))]  
+D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
+*Accepted for publication in The Cryosphere* 
 
 * [WAVI.jl: Ice Sheet Modelling in Julia](https://joss.theoj.org/papers/10.21105/joss.05584)  
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne  
