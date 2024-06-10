@@ -21,7 +21,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 **A. T. Bradley**, I. J. Hewitt  
 *Accepted for publication in Nature Geoscience*
 
-* [Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams](https://tc.copernicus.org/articles/18/2653/2024/tc-18-2653-2024.html) [[preprint]([https://tc.copernicus.org/preprints/tc-2023-77/tc-2023-77.pdf])]  
+* [Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams](https://tc.copernicus.org/articles/18/2653/2024/tc-18-2653-2024.html)  
 D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
 *Accepted for publication in The Cryosphere* 
 
