@@ -17,8 +17,8 @@ Non-specialist articles, many written by science journalists, about some of my r
 ### Peer Reviewed Publications
 
 #### Published  
-* [Tipping point behaviour of submarine melting in ice-sheet grounding zones](https://www.nature.com/articles/s41561-024-01465-7)
-**A. T. Bradley**, I. J. Hewitt
+* [Tipping point behaviour of submarine melting in ice-sheet grounding zones](https://www.nature.com/articles/s41561-024-01465-7)  
+**A. T. Bradley**, I. J. Hewitt  
 *Nature Geoscience (2024)*
    
 
