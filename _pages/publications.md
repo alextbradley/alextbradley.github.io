@@ -10,22 +10,23 @@ header:
 #last_modified_at: 2021-02-05T20:54:41-05:00
 #toc: true
 ---
-A full list of publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=2zVbnAkAAAAJ&hl=en). Note that all of my first author publications are freely available on preprint servers (arXiv, essoar etc) in their 'accepted' format, which can be found on this page. If you don't have access to any article listed here, and would like access, please don't hesitate to [send me an email](mailto:alextbradley@gmail.com).
+A full list of publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=2zVbnAkAAAAJ&hl=en). Note that all of my first author publications are either freely available on preprint servers (arXiv, essoar etc) in their 'accepted' format, which can be found on this page, or are open access. If you don't have access to any article listed here, and would like access, please don't hesitate to [send me an email](mailto:alextbradley@gmail.com).
 
 Non-specialist articles, many written by science journalists, about some of my research can be found [here](press.md). 
 
 ### Peer Reviewed Publications
 
 #### Published  
-* Tipping point behaviour of submarine melting in ice-sheet grounding zones [[preprint](https://assets.researchsquare.com/files/rs-2924707/v1_covered_26f0196d-7a1a-4671-aa24-fa6d0ceb3fd4.pdf?c=1684370205)]  
-**A. T. Bradley**, I. J. Hewitt  
-*Accepted for publication in Nature Geoscience*
+* [Tipping point behaviour of submarine melting in ice-sheet grounding zones](https://www.nature.com/articles/s41561-024-01465-7)
+**A. T. Bradley**, I. J. Hewitt
+*Nature Geoscience (2024)*
+   
 
-* [Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams](https://tc.copernicus.org/articles/18/2653/2024/tc-18-2653-2024.html)  
+* [Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams](https://tc.copernicus.org/articles/18/2653/2024/tc-18-2653-2024.html) 
 D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
 *The Cryosphere, 18(6), 2653-2675 (2024)* (Also selected as a highlight article) 
 
-* [WAVI.jl: Ice Sheet Modelling in Julia](https://joss.theoj.org/papers/10.21105/joss.05584)  
+* [WAVI.jl: Ice Sheet Modelling in Julia](https://joss.theoj.org/papers/10.21105/joss.05584) (open access)
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne  
 *Journal of Open Source Software,  9(95), 5584 (2024)*
 
