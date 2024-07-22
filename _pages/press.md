@@ -13,7 +13,7 @@ classes: wide
 Below you will find links to non-specialist articles, many written by science journalists, about some of my research.
 
 ## Tipping point behaviour of submarine melting in ice-sheet grounding zones
-A full list of press articles can be found of [altmetric](https://nature.altmetric.com/details/164834510), here are a selection.
+A full list of press articles can be found on [altmetric](https://nature.altmetric.com/details/164834510), below are listed a selection.
 
 [The Guardian](https://www.theguardian.com/environment/article/2024/jun/25/newly-identified-tipping-point-for-ice-sheets-could-mean-greater-sea-level-rise?CMP=share_btn_url)  
 [CNN](https://edition.cnn.com/2024/06/25/climate/antarctic-ice-sheet-tipping-point-sea-level-rise-climate-intl/index.html)  
