@@ -20,7 +20,7 @@ A full list of press articles can be found on [altmetric](https://nature.altmetr
 [New Scientist](https://www.newscientist.com/article/2436841-warm-water-seeping-under-antarctic-ice-sheets-may-accelerate-melting/)  
 [GRIST](https://grist.org/science/climate-models-puzzle-antarctica-tipping-point/)  
 [Der Spiegel](https://www.spiegel.de/wissenschaft/natur/antarktis-forschende-halten-weiteres-kippelement-fuer-moeglich-a-e1a5ac65-b518-4dfb-a406-1ee9aba31a8d)  
-[MSN/USA Today](https://www.msn.com/en-us/weather/topstories/faster-ice-sheet-melting-could-bring-more-coastal-flooding-sooner/ar-BB1oSKWY) 
+[MSN/USA Today](https://www.msn.com/en-us/weather/topstories/faster-ice-sheet-melting-could-bring-more-coastal-flooding-sooner/ar-BB1oSKWY)   
 [Daily Mail](https://www.dailymail.co.uk/wires/afp/article-13566897/Antarctic-faces-melting-tipping-point-oceans-warm-study.html)  
 [Yahoo](https://au.news.yahoo.com/worrying-discovery-beneath-antarctic-ice-sheets-090035024.html)  
 
