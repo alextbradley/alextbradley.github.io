@@ -15,6 +15,10 @@ A full list of publications can also be found on [Google Scholar](https://schola
 Non-specialist articles, many written by science journalists, about some of my research can be found [here](press.md). 
 
 ### Peer Reviewed Publications
+#### In review
+* Timescales of ice shelf collapse via crevassing
+** A. T. Bradley**, C. Y. Lai, N. B. Coffey
+*In review at Nature Climate Change*
 
 #### Published  
 * [Tipping point behaviour of submarine melting in ice-sheet grounding zones](https://www.nature.com/articles/s41561-024-01465-7)  
