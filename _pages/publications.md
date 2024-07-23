@@ -75,6 +75,3 @@ _Phys. Rev. Lett. 122 074503 (2019)_  [[preprint](http://arxiv.org/abs/1809.1092
 * [Marine Ice Sheet Instabilities](https://www.dropbox.com/s/m92l444url7w8ed/619763.pdf?dl=0)  
 **A. T. Bradley**  
 _Masters Thesis, University of Oxford (2016)_
-
-### Other Writing
-See [other writing](communications.md#other-writing)
