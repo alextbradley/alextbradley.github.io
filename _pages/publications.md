@@ -16,8 +16,8 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 ### Peer Reviewed Publications
 #### In review
-* Timescales of ice shelf collapse via crevassing
-** A. T. Bradley**, C. Y. Lai, N. B. Coffey
+* Timescales of ice shelf collapse via crevassing  
+**A. T. Bradley**, C. Y. Lai, N. B. Coffey  
 *In review at Nature Climate Change*
 
 #### Published  
