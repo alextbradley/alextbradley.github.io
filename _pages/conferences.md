@@ -8,6 +8,9 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 #toc: true
 ---
 Below is a list of seminars and conference presentations I have given (or will give soon)
+* 12/2024 (**Invited**) American Geophysical Union Annual Meeting, Washington DC, USA
+* 08/2024 (**Invited**) British Antarctic Survey Paper of the Month, Cambridge, UK
+* 08/2024 IGS International Symposium on Verification and Validation of Cryospheric Models, Northumbria, UK
 * 04/2024 European Geophysical Union General Assembly, Vienna, Austria (poster)
 * 03/2024 (**Invited**) Icy Group seminar, Stanford University, USA 
 * 01/2024 (**Invited**) Future of Ice on Earth Group seminar, Northumbria University, UK
