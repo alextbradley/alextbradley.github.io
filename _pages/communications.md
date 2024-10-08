@@ -13,6 +13,13 @@ header:
 Communications is the name I give to all output which isn't papers: talks/conferences, outreach, and other writing. If you have a better name for this, please let me know!
 
 ### Talks/Conferences
+Below is a list of seminars and conference presentations I have given (or will give soon)
+* 12/2024 (**Invited**) American Geophysical Union Annual Meeting, Washington DC, USA  
+* 10/2024 (**Invited**) Quantitative Climate and Environmental Science Seminars, Cambridge, UK  
+* 10/2024 JCIOI Online Workshop, Online  
+* 09/2024 (**Invited**) Geography Department Seminar, King's College London, UK  
+* 08/2024 (**Invited**) British Antarctic Survey Paper of the Month, Cambridge, UK
+* 08/2024 IGS International Symposium on Verification and Validation of Cryospheric Models, Northumbria, UK
 * 04/2024 European Geophysical Union General Assembly, Vienna, Austria (poster)
 * 03/2024 (**Invited**) Icy Group seminar, Stanford University, USA 
 * 01/2024 (**Invited**) Future of Ice on Earth Group seminar, Northumbria University, UK
