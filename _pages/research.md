@@ -10,7 +10,7 @@ header:
 #last_modified_at: 2021-02-05T20:54:41-05:00
 #toc: true
 ---
-
+*NB: this page is a little out of date, but gives you an idea of what I work on*
 I apply numerical, statistical, and analytic methods to help answer questions relating to the cryosphere. I use models, from simple schematic models to large general circulation models, to address questions relating to the changes we observe and to simulate those that may occur in the future. I am also interested in the public policy implications associated with a changing cryosphere.
 
 ## Ice Shelf Processes: Melting and Calving
