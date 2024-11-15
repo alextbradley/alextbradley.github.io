@@ -13,12 +13,17 @@ classes: wide
 ---
 
 ### Addresses
-*electronic* aleey(at)bas.ac.uk  
-*department* British Antarctic Survey, High Cross, Madingley Road, Cambridge, CB3 0ET
+*electronic* alex.bradley(at)kcl.ac.uk  
+*department* Bush House North East Wing, 30 Aldwych, WC2B 4BG  
 
 ### Current Position
-Postdoctoral researcher, Ice Dynamics and Paleoclimate Group, British Antarctic Survey  
-Darwin David MacKay Research Associate, University of Cambridge
+Lecturer in Climate and Environmental Science, King's College London
+
+### Previous Positions
+2024: Visiting Research Fellow, King's College London
+2023: Visiting Research Fellow, Stanford University
+2020--2024: Postdoctoral researcher, Ice Dynamics and Paleoclimate Group, British Antarctic Survey  
+2022--2023: Darwin David MacKay Research Associate, University of Cambridge
 
 ### Education
 **2016-2020**
