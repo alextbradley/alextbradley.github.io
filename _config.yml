@@ -76,7 +76,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/alexbradley14"
+    - "https://twitter.com/abraleey"
 
 # Analytics
 analytics:
@@ -90,12 +90,12 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/headphoto.jpg"
-  bio              : "Mathematician turned climate scientist at the British Antarctic Survey and King's College London. Keen software developer and open code advocate. Usually found on a bicycle."
-  location         : "Cambridge, UK"
+  bio              : "Mathematician turned climate scientist at King's College London. Keen software developer and open code advocate. Usually found on a bicycle."
+  location         : "London, UK"
   links:
-    - label: "BAS Profile"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.bas.ac.uk/profile/aleey/"
+#    - label: "BAS Profile"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://www.bas.ac.uk/profile/aleey/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/abraleey"
@@ -110,7 +110,7 @@ author:
       url: "https://orcid.org/0000-0001-8381-5317"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:aleey@bas.ac.uk"
+      url: "mailto:alex.bradley@kcl.ac.uk"
 
 
 # Site Footer
