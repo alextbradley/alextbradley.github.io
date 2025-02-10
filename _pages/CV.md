@@ -20,10 +20,10 @@ classes: wide
 Lecturer in Climate and Environmental Science, King's College London
 
 ### Previous Positions
-2024: Visiting Research Fellow, King's College London
-2023: Visiting Research Fellow, Stanford University
-2020--2024: Postdoctoral researcher, Ice Dynamics and Paleoclimate Group, British Antarctic Survey  
-2022--2023: Darwin David MacKay Research Associate, University of Cambridge
+**2024**: Visiting Research Fellow, King's College London  
+**2023**: Visiting Research Fellow, Stanford University  
+**2020--2024**: Postdoctoral researcher, Ice Dynamics and Paleoclimate Group, British Antarctic Survey  
+**2022--2023**: Darwin David MacKay Research Associate, University of Cambridge  
 
 ### Education
 **2016-2020**
@@ -55,7 +55,18 @@ See [awards and prizes](awards.md)
 See [outreach activities](./communications.md/#outreach)
 
 ### Teaching Experience
-#### Small Group Teaching
+#### Lecturing: King's
+7SSGN031 Modelling Environmental Change (2024-25)  
+5SSG2064 Global Environmental Issues: Science and Solutions (2024-25)  
+5SSG2051 Climatic Variability, Change and Society (2024-25)  
+
+
+#### Class Teaching: King's
+4SSG1008 Geography Tutorials: Critical Thinking and Techniques (2024-25)  
+7SSGN225 Research Design and Project Management (2024-25)  
+
+
+#### Small Group Teaching: Oxford
 **2018--2020**  
 Non-Stipendiary Lecturer, Worcester College, University of Oxford  
 Prelims (first year): Introductory Calculus, Fourier Series and Partial Differential Equations, Multivariable Calculus
@@ -68,7 +79,7 @@ Part A (second year): Fluids and Waves
 Worcester College, University of Oxford  
 Part A (second year): Quantum Theory
 
-#### Large Class Teaching
+#### Large Class Teaching: Oxford
 **2017**  
 Mathematical Institute, University of Oxford  
 Part B (third year): Viscous Flow
