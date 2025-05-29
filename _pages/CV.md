@@ -12,11 +12,6 @@ classes: wide
 #toc: true
 ---
 
-| Row 1    | Data A   | Data B   |
-| Row 2    | Data C   | Data D   |
-| Row 3    | Data E   | Data F   |
-
-
 ### Addresses
 *electronic* alex.bradley(at)kcl.ac.uk  
 *department* Bush House North East Wing, 30 Aldwych, WC2B 4BG  
@@ -46,6 +41,8 @@ Queen Elizabeth High School, Gainsborough
 
 ### Student Supervision
 **PhD**  
+|          |          |          |
+|----------|----------|----------|
 | Megan James (KCL)    | 2026 (exp)  | Quantifying uncertainties in large-scale glacier change  |
 | Jonnie Barnsely (KCL)      | 2027 (exp)  |  Quantifying Uncertainty in Antarctica’s future sea level contribution |
 | Emma Cameron (St Andrews)    | 2027 (exp)   | Investigating the impact of glacial meltwater plumes in Greenland's Fjords |
