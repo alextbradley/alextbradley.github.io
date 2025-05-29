@@ -14,7 +14,7 @@ header:
 My research aims to understand the processes responsible for driving ice sheet retreat, better constrain past and future ice sheet change, and examine the implications of a changing cryosphere on societies around the world. To do so, I use mathematical and computational modelling, geophysical observations, data science, and machine learning. 
 
 ## Attributing sea level rise from the ice sheets to climate change  
-<img align = "right" src="../assets/research-figures/distributions.png" alt="" title="" width="400" />
+<img align = "right" src="../assets/research-figures/distributions.png" alt="" title="" width="450" />
 
 Despite taking place at the same time as significnat human-induced climate change, we don't know whether climate change is actually responsible for the retreat of the ice sheets. This is in large part because it's hard to reproduce the behaviour of the ice sheets over the last few centuries, owing to a lack of observational constraints before the satellite era and models which are very sensitive to climate forcing. I am using machine learning, combined with physics-based ice sheet models, to reproduce the retreat of the ice sheets over the last centuries and thus quantify the extent to which climate change is responsible for retreat of the ice sheets. 
 
