@@ -12,6 +12,13 @@ classes: wide
 #toc: true
 ---
 
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data A   | Data B   |
+| Row 2    | Data C   | Data D   |
+| Row 3    | Data E   | Data F   |
+
+
 ### Addresses
 *electronic* alex.bradley(at)kcl.ac.uk  
 *department* Bush House North East Wing, 30 Aldwych, WC2B 4BG  
