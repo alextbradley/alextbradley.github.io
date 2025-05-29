@@ -47,6 +47,15 @@ Queen Elizabeth High School, Gainsborough
 | Jonnie Barnsely (KCL)      | 2027 (exp)  |  Quantifying Uncertainty in Antarctica’s future sea level contribution |
 | Emma Cameron (St Andrews)    | 2027 (exp)   | Investigating the impact of glacial meltwater plumes in Greenland's Fjords |
 
+**MSc**
+|          |          |          |
+|----------|----------|----------|
+| Ben Clark (KCL)        | 2024-25  | Using the calibrate, emulate, sample methodology to reduce parameter uncertainty to analyse the projected impacts of climate change to the Quelccaya ice cap  |
+| Ritika Thakur (KCL)    | 2024-25  | Uncertain Futures: Modelling Chhota Shigri Glacier Retreat Using a Multi-Model Approach and Its Relevance for Policy Decisions |
+|  Olivia Bowen (KCL)    | 2024-25  | Quantifying anthropogenic contributions to glacial retreat: An OGGM- based event attribution analysis of glacial retreat in the Aletsch glacier, Switzerland |
+
+**BSc**
+
 ### Publications
 See [publications](publications.md)
 
