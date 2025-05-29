@@ -39,8 +39,11 @@ Lady Margaret Hall College, University of Oxford
 Queen Elizabeth High School, Gainsborough  
 4 A Levels, 1 AS Level, 11 GCSEs
 
-### Research Interests
-Ice dynamics, ice-ocean interactions, modelling coupled ice-ocean systems. (Previously) surface tension and elastocapillary dynamics. See my [research page](research.md) for more information.
+### Student Supervision
+**PhD**
+| Megan James (KCL)    | 2026 (exp)  | Quantifying uncertainties in large-scale glacier change  |
+| Jonnie Barnsely (KCL)      | 2027 (exp)  |  Quantifying Uncertainty in Antarctica’s future sea level contribution |
+| Emma Cameron (St Andrews)    | 2027 (exp)   | Investigating the impact of glacial meltwater plumes in Greenland's Fjords |
 
 ### Publications
 See [publications](publications.md)
