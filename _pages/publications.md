@@ -15,22 +15,29 @@ A full list of publications can also be found on [Google Scholar](https://schola
 Non-specialist articles, many written by science journalists, about some of my research can be found [here](press.md). 
 
 ### Peer Reviewed Publications
-#### In review
+#### In review/submitted
 * Timescales of ice shelf collapse via crevassing  
 **A. T. Bradley**, C. Y. Lai, N. B. Coffey  
-*In review at Nature Climate Change*
+*In review at Nature Climate Change*  
+
+* Quantifying and attributing the role of anthropogenic climate change in industrial-era retreat of the Pine Island Glacier
+**A. T. Bradley**, D. T. Bett, C. R. Williams, R. J. Arthern, P. R. Holland, J. Byrne, T. L. Edwards
+*Submitted to The Cryosphere*  
+
+* Constraining Ice Thickness and Basal Conditions in Grounding Zones: Integration of Satellite Observations and Viscous Beam Modelling at Ross Ice Shelf, Antarctica
+B. I. D. Freer, O. J. Marsh, **A. T. Bradley**, H. A. Fricker
 
 #### Published  
 * [Tipping point behaviour of submarine melting in ice-sheet grounding zones](https://www.nature.com/articles/s41561-024-01465-7)  
 **A. T. Bradley**, I. J. Hewitt  
-*Nature Geoscience (2024)*
+*Nature Geoscience, 17, 631–637 (2024)* [[press](press.md)]
    
 
 * [Coupled ice/ocean interactions during the future retreat of West Antarctic ice streams](https://tc.copernicus.org/articles/18/2653/2024/tc-18-2653-2024.html)  
 D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
 *The Cryosphere, 18(6), 2653-2675 (2024)* (Also selected as a highlight article) 
 
-* [WAVI.jl: Ice Sheet Modelling in Julia](https://joss.theoj.org/papers/10.21105/joss.05584) (open access)  
+* [WAVI.jl: Ice Sheet Modelling in Julia](https://joss.theoj.org/papers/10.21105/joss.05584) 
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne  
 *Journal of Open Source Software,  9(95), 5584 (2024)*
 
@@ -48,7 +55,7 @@ D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and 
 
 * [The influence of Pine Island Ice Shelf calving on melting](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC018621)  
 **A. T. Bradley**, D. Bett, P. Dutrieux, J. De Rydt and P. Holland  
-_Journal of Geophysical Research: Oceans, 127 (2022)_  [[preprint](https://essopenarchive.org/doi/full/10.1002/essoar.10510805.1)] [[press](press.md#Calving)]
+_Journal of Geophysical Research: Oceans, 127 (2022)_  [[preprint](https://essopenarchive.org/doi/full/10.1002/essoar.10510805.1)] [[press](press.md)]
 
 *  [Asymptotic analysis of subglacial plumes in stratified environments](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0846)  
 **A. T. Bradley**, C. R. Williams, A. Jenkins and R. Arthern  
@@ -68,7 +75,7 @@ _PhD Thesis, University of Oxford (2020)_  [[ORA Record](https://ora.ox.ac.uk/ob
 
 * [Wettability-independent droplet transport by Bendotaxis](https://doi.org/10.1103/PhysRevLett.122.074503)  
 **A. T. Bradley**, F. Box, I. J. Hewitt and D. Vella  
-_Phys. Rev. Lett. 122 074503 (2019)_  [[preprint](http://arxiv.org/abs/1809.10923)] [[press](press.md#Bendotaxis)]
+_Phys. Rev. Lett. 122 074503 (2019)_  [[preprint](http://arxiv.org/abs/1809.10923)] [[press](press.md)]
 
 
 ### Other Scientific Writing
