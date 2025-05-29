@@ -63,8 +63,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter "abraleey"
+#twitter:
+#  username               : &twitter "abraleey"
 #facebook:
 #  username               : &facebook "<username here>"#
 #  app_id                 :
@@ -76,7 +76,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/abraleey"
+      - "https://twitter.com/abraleey"
 
 # Analytics
 analytics:
@@ -96,9 +96,9 @@ author:
 #    - label: "BAS Profile"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://www.bas.ac.uk/profile/aleey/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/abraleey"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/abraleey"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alextbradley"
