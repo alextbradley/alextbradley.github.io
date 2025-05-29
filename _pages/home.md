@@ -4,7 +4,7 @@ permalink: /
 classes: wide
 #excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/headers/header_Carpathians1.jpg
+  image: /assets/headers/header_SnowyScotland.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 
 ---
