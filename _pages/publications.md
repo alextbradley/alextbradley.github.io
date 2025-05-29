@@ -4,7 +4,7 @@ title: "Publications"
 classes: wide
 excerpt: "Here is a list of my publications."
 header:
-  image: /assets/headers/header_Bioux.jpeg
+  image: /assets/headers/header_ocean.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 
 #last_modified_at: 2021-02-05T20:54:41-05:00
