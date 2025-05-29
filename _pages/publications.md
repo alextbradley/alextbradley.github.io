@@ -38,7 +38,7 @@ B. I. D. Freer, O. J. Marsh, **A. T. Bradley**, H. A. Fricker
 D. T. Bett, **A T. Bradley**, C. R. Williams, P. R. Holland, R. J. Arthern, and D. N. Goldberg  
 *The Cryosphere, 18(6), 2653-2675 (2024)* (Also selected as a highlight article) 
 
-* [WAVI.jl: Ice Sheet Modelling in Julia](https://joss.theoj.org/papers/10.21105/joss.05584) 
+* [WAVI.jl: Ice Sheet Modelling in Julia](https://joss.theoj.org/papers/10.21105/joss.05584)  
 **A. T. Bradley**, R. Arthern, C. Rosie Williams, D. T. Bett, J. Byrne  
 *Journal of Open Source Software,  9(95), 5584 (2024)*
 
