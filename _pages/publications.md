@@ -21,7 +21,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 *In review at Nature Climate Change*  
 
 * Quantifying and attributing the role of anthropogenic climate change in industrial-era retreat of the Pine Island Glacier
-**A. T. Bradley**, D. T. Bett, C. R. Williams, R. J. Arthern, P. R. Holland, J. Byrne, T. L. Edwards
+**A. T. Bradley**, D. T. Bett, C. R. Williams, R. J. Arthern, P. R. Holland, J. Byrne, T. L. Edwards  
 *Submitted to The Cryosphere*  
 
 * Constraining Ice Thickness and Basal Conditions in Grounding Zones: Integration of Satellite Observations and Viscous Beam Modelling at Ross Ice Shelf, Antarctica  
