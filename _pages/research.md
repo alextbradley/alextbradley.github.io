@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /research-old/
 title: "Research"
 classes: wide
 excerpt: "Here are some details of my research."
