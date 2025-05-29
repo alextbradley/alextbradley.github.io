@@ -25,7 +25,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 *Submitted to The Cryosphere*  
 
 * Constraining Ice Thickness and Basal Conditions in Grounding Zones: Integration of Satellite Observations and Viscous Beam Modelling at Ross Ice Shelf, Antarctica  
-B. I. D. Freer, O. J. Marsh, **A. T. Bradley**, H. A. Fricker
+B. I. D. Freer, O. J. Marsh, **A. T. Bradley**, H. A. Fricker  
 *Submitted to Journal of Glaciology*  
 
 #### Published  
