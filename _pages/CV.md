@@ -40,7 +40,7 @@ Queen Elizabeth High School, Gainsborough
 4 A Levels, 1 AS Level, 11 GCSEs
 
 ### Student Supervision
-**PhD**
+**PhD**  
 | Megan James (KCL)    | 2026 (exp)  | Quantifying uncertainties in large-scale glacier change  |
 | Jonnie Barnsely (KCL)      | 2027 (exp)  |  Quantifying Uncertainty in Antarctica’s future sea level contribution |
 | Emma Cameron (St Andrews)    | 2027 (exp)   | Investigating the impact of glacial meltwater plumes in Greenland's Fjords |
