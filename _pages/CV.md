@@ -47,6 +47,11 @@ Queen Elizabeth High School, Gainsborough
 | Jonnie Barnsely (KCL)      | 2027 (exp)  |  Quantifying Uncertainty in Antarctica’s future sea level contribution |
 | Emma Cameron (St Andrews)    | 2027 (exp)   | Investigating the impact of glacial meltwater plumes in Greenland's Fjords |
 
+* Megan James (KCL), 2026 (exp), _Quantifying uncertainties in large-scale glacier change_  
+* Jonnie Barnsely (KCL), 2027 (exp), _Quantifying Uncertainty in Antarctica’s future sea level contribution_  
+* Emma Cameron (St Andrews), 2027 (exp), _Investigating the impact of glacial meltwater plumes in Greenland's Fjords_  
+
+
 **MSc**
 |          |          |          |
 |----------|----------|----------|
