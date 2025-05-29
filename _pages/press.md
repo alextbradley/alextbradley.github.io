@@ -2,7 +2,7 @@
 permalink: /press/
 title: "Press"
 header:
-  image: /assets/headers/header_Knoydart.jpeg
+  image: /assets/headers/header_Knoydart.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 
 classes: wide
