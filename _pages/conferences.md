@@ -8,6 +8,7 @@ excerpt: "Here is a list of seminars and conference presentations I have given."
 #toc: true
 ---
 Below is a list of seminars and conference presentations I have given (or will give soon)
+* 05/2025 European Geophysical Union General Assembly, Vienna, Austria  
 * 12/2024 (**Invited**) American Geophysical Union Annual Meeting, Washington DC, USA  
 * 10/2024 (**Invited**) Quantitative Climate and Environmental Science Seminars, Cambridge, UK  
 * 10/2024 JCIOI Online Workshop, Online  
