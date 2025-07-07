@@ -49,7 +49,7 @@ Queen Elizabeth High School, Gainsborough
 **MSc**
 * Ben Clark (KCL), 2024-25, _Using the calibrate, emulate, sample methodology to reduce parameter uncertainty to analyse the projected impacts of climate change to the Quelccaya ice cap_
 * Ritika Thakur (KCL), 2024-25, _Uncertain Futures: Modelling Chhota Shigri Glacier Retreat Using a Multi-Model Approach and Its Relevance for Policy Decisions_  
-*Olivia Bowen (KCL), 2024-25, _Quantifying anthropogenic contributions to glacial retreat: An OGGM- based event attribution analysis of glacial retreat in the Aletsch glacier, Switzerland_
+* Olivia Bowen (KCL), 2024-25, _Quantifying anthropogenic contributions to glacial retreat: An OGGM- based event attribution analysis of glacial retreat in the Aletsch glacier, Switzerland_
 
 **BSc**
 * Joni Plews (KCL), 2024-25
