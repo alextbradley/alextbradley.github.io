@@ -32,8 +32,8 @@ main:
     url: /CV/
   - title: "Press"
     url: /press/
-  - title: "Blog"
-    url: /blog/
+ # - title: "Blog"
+ #   url: /blog/
 
 
 # documentation links
