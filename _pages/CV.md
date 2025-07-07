@@ -63,8 +63,8 @@ See [publications](publications.md)
 ### Seminars and Conference Presentations
 See [seminars and conference presentations](./communications.md/#talksconferences)
 
-### Awards and Prizes
-See [awards and prizes](awards.md)
+### Grants and Awards
+See [grants and awards](grants.md)
 
 ### Outreach
 See [outreach activities](./communications.md/#outreach)
