@@ -71,9 +71,10 @@ See [outreach activities](./communications.md/#outreach)
 
 ### Teaching Experience
 #### Lecturing: King's
-7SSGN031 Modelling Environmental Change (2024-25)  
-5SSG2064 Global Environmental Issues: Science and Solutions (2024-25)  
-5SSG2051 Climatic Variability, Change and Society (2024-25)  
+7SSGN031 Modelling Environmental Change (2024-25, 25-26)  
+5SSG2064 Global Environmental Issues: Science and Solutions (2024-25, 25-26)  
+5SSG2051 Climatic Variability, Change and Society (2024-25, 25-26)  
+4SSG1012 The Changing Natural Environment 1 (2025-26)
 
 
 #### Class Teaching: King's
