@@ -22,11 +22,11 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 * Quantifying and attributing the role of anthropogenic climate change in industrial-era retreat of the Pine Island Glacier
 **A. T. Bradley**, D. T. Bett, C. R. Williams, R. J. Arthern, P. R. Holland, J. Byrne, T. L. Edwards  
-*Submitted to The Cryosphere*  
+*In review at The Cryosphere*  
 
 * Constraining Ice Thickness and Basal Conditions in Grounding Zones: Integration of Satellite Observations and Viscous Beam Modelling at Ross Ice Shelf, Antarctica  
 B. I. D. Freer, O. J. Marsh, **A. T. Bradley**, H. A. Fricker  
-*Submitted to Journal of Glaciology*  
+*In review at Journal of Glaciology*  
 
 #### Published  
 * [Tipping point behaviour of submarine melting in ice-sheet grounding zones](https://www.nature.com/articles/s41561-024-01465-7)  
