@@ -17,7 +17,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 ### Peer Reviewed Publications
 #### In review/submitted  
 
-* Mass loss from Thwaites Glacier continues even without ocean melting *  
+* Mass loss from Thwaites Glacier continues even without ocean melting   
 C. R. Williams, M. Trevers, S. Sun, P. R. Holland, D. T. Bett, R. J. Arthern and **A. T. Bradley**  
 
 * Timescales of ice shelf collapse via crevassing  
