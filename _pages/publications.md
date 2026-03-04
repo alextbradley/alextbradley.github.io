@@ -16,6 +16,9 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 ### Peer Reviewed Publications
 #### In review/submitted  
+* Modelling the evolution of Thwaites Glacier over the 20th century  
+D. T. Bett, **A. T. Bradley**, B. W. J. Miles, C. R. Williams, P. R. Holland, R. J. Arthern  
+ *In review at The Cryosphere*  
 
 * Mass loss from Thwaites Glacier continues even without ocean melting   
 C. R. Williams, M. Trevers, S. Sun, P. R. Holland, D. T. Bett, R. J. Arthern and **A. T. Bradley**  
@@ -24,7 +27,7 @@ C. R. Williams, M. Trevers, S. Sun, P. R. Holland, D. T. Bett, R. J. Arthern and
 **A. T. Bradley**, C. Y. Lai, N. B. Coffey  
 *In review at Nature Climate Change*  
 
-* Quantifying and attributing the role of anthropogenic climate change in industrial-era retreat of the Pine Island Glacier
+* Detection and attribution of the role of anthropogenic climate change in industrial-era retreat of the Pine Island Glacier  
 **A. T. Bradley**, D. T. Bett, C. R. Williams, R. J. Arthern, P. R. Holland, J. Byrne, T. L. Edwards  
 *In review at The Cryosphere*  
 
@@ -83,7 +86,7 @@ _PhD Thesis, University of Oxford (2020)_  [[ORA Record](https://ora.ox.ac.uk/ob
 _Phys. Rev. Lett. 122 074503 (2019)_  [[preprint](http://arxiv.org/abs/1809.10923)] [[press](press.md)]
 
 
-### Other Scientific Writing
+### Other
 * [Marine Ice Sheet Instabilities](https://www.dropbox.com/s/m92l444url7w8ed/619763.pdf?dl=0)  
 **A. T. Bradley**  
 _Masters Thesis, University of Oxford (2016)_
