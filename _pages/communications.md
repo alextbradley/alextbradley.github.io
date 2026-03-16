@@ -13,7 +13,9 @@ header:
 Communications is the name I give to all output which isn't papers: talks/conferences, outreach, and other writing. If you have a better name for this, please let me know!
 
 ### Talks/Conferences
-Below is a list of seminars and conference presentations I have given (or will give soon)
+Below is a list of seminars and conference presentations I have given (or will give soon)  
+* 12/2025 Monash EAE Seminar, Melbourne, Australia
+* 12/2025 IMAS, University of Tasmania, Hobart, Australia
 * 05/2025 European Geophysical Union General Assembly, Vienna, Austria
 * 12/2024 (**Invited**) American Geophysical Union Annual Meeting, Washington DC, USA  
 * 10/2024 (**Invited**) Quantitative Climate and Environmental Science Seminars, Cambridge, UK  
