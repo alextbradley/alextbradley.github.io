@@ -16,7 +16,7 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 ### Peer Reviewed Publications
 #### In review/submitted  
-* EF Cameron, TR Cowton, AT Bradley, PR Holland  
+* EF Cameron, TR Cowton, *AT Bradley*, PR Holland  
 Greenland fjord processes have a depth-dependent influence on predicted submarine melt rates  
 
 * Quantifying the Role of Parametric Uncertainty in Projections of Large-Scale Glacier Change  
