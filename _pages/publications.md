@@ -21,27 +21,29 @@ Greenland fjord processes have a depth-dependent influence on predicted submarin
 
 * Quantifying the Role of Parametric Uncertainty in Projections of Large-Scale Glacier Change  
 MC James, TL Edwards, T Matthews, **AT Bradley**, JF O'Neill, and H Zekollari  
+*In review at The Cryosphere*  
 
 * Modelling the evolution of Thwaites Glacier over the 20th century  
 DT Bett, **AT Bradley**, BWJ Miles, CR.Williams, PR Holland, RJ Arthern  
  *In review at The Cryosphere*  
 
-* Mass loss from Thwaites Glacier continues even without ocean melting   
-CR Williams, M Trevers, S Sun, PR Holland, DT Bett, RJ Arthern and **AT Bradley**  
-
 * Timescales of ice shelf collapse via crevassing  
 **AT Bradley**, CY Lai, NB Coffey  
 *In review at Nature Climate Change*  
-
-* Detection and attribution of the role of anthropogenic climate change in industrial-era retreat of the Pine Island Glacier  
-**AT Bradley**, DT. Bett, C. R. Williams, R. J. Arthern, P. R. Holland, J. Byrne, T. L. Edwards  
-*Accepted for publication in The Cryosphere*  
 
 * Constraining Ice Thickness and Basal Conditions in Grounding Zones: Integration of Satellite Observations and Viscous Beam Modelling at Ross Ice Shelf, Antarctica  
 BID Freer, OJ Marsh, **AT Bradley**, HA Fricker  
 *In review at Journal of Glaciology*  
 
 #### Published  
+* [Mass loss from Thwaites Glacier continues even without ocean melting](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122843?af=R)     
+CR Williams, M Trevers, S Sun, PR Holland, DT Bett, RJ Arthern and **AT Bradley**  
+*Geophysical Research Letters, 53, e2026GL122843 (2026)*  
+
+* [Detection and attribution of the role of anthropogenic climate change in industrial-era retreat of the Pine Island Glacier](https://tc.copernicus.org/articles/20/3443/2026/)  
+**AT Bradley**, DT Bett, CR Williams, RJ Arthern, PR Holland, J Byrne, TL Edwards, M Adhikari  
+*The Cryosphere, 20, 3443–3465 (2026)* (Also selected as a highlight article) [[press](press.md)]  
+
 * [Tipping point behaviour of submarine melting in ice-sheet grounding zones](https://www.nature.com/articles/s41561-024-01465-7)  
 **AT Bradley**, IJ Hewitt  
 *Nature Geoscience, 17, 631–637 (2024)* [[press](press.md)]
@@ -79,13 +81,9 @@ _Proc. R. Soc. A. 478:20210846, (2022)_  [[preprint](https://arxiv.org/abs/2103.
   ST  Yoon, WS Lee, S Nam, CK Lee, S Yun, K Heywood, L Boehme, Y Zheng, I Lee, Y Choi, A Jenkins, EK Jin, R Larter, J Wellner, P Dutrieux and **AT Bradley**  
 _Nature Communications 13, 306 (2022)_
 
-* [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)  
+*  [Droplet trapping in bendotaxis caused by contact angle hysteresis](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.114003)  
 **AT Bradley**, IJ Hewitt and D Vella  
 _Phys. Rev. Fluids 6, 114003 (2021)_  [[preprint](https://arxiv.org/abs/2104.10115)] (Also highlighted as an editor's suggestion)
-
-* [Droplet Transport by Bendotaxis](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)  
-**AT Bradley**  
-_PhD Thesis, University of Oxford (2020)_  [[ORA Record](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)]
 
 * [Wettability-independent droplet transport by Bendotaxis](https://doi.org/10.1103/PhysRevLett.122.074503)  
 **AT Bradley**, F Box, IJ Hewitt and D Vella  
@@ -93,6 +91,10 @@ _Phys. Rev. Lett. 122 074503 (2019)_  [[preprint](http://arxiv.org/abs/1809.1092
 
 
 ### Other
+* [Droplet Transport by Bendotaxis](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)  
+**AT Bradley**  
+_PhD Thesis, University of Oxford (2020)_  [[ORA Record](https://ora.ox.ac.uk/objects/uuid:8ed6f6b0-a809-4b3b-986e-c990f75b4f7f)]
+
 * [Marine Ice Sheet Instabilities](https://www.dropbox.com/s/m92l444url7w8ed/619763.pdf?dl=0)  
 **A. T. Bradley**  
 _Masters Thesis, University of Oxford (2016)_
