@@ -31,7 +31,7 @@ DT Bett, **AT Bradley**, BWJ Miles, CR.Williams, PR Holland, RJ Arthern
 **AT Bradley**, CY Lai, NB Coffey  
 *In review at Nature Climate Change*  
 
-* Constraining Ice Thickness and Basal Conditions in Grounding Zones: Integration of Satellite Observations and Viscous Beam Modelling at Ross Ice Shelf, Antarctica  
+* Grounding zone viscous bumps on Ross Ice Shelf, Antarctica  
 BID Freer, OJ Marsh, **AT Bradley**, HA Fricker  
 *In review at Journal of Glaciology*  
 
