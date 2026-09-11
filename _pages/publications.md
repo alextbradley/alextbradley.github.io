@@ -16,8 +16,12 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 ### Peer Reviewed Publications
 #### In review/submitted  
+* Science and Indigenous Knowledge: The Hybrid Heuristics of Glacier Grafting and Climate Adaptation in Baltistan, Pakistan
+D Mustafa, **AT Bradley**, T Matthews
+*Submitted to Sustainability*  
+
 * Greenland fjord processes have a depth-dependent influence on predicted submarine melt rates  
-  EF Cameron, TR Cowton, **AT Bradley**, PR Holland  
+EF Cameron, TR Cowton, **AT Bradley**, PR Holland  
 
 * Quantifying the Role of Parametric Uncertainty in Projections of Large-Scale Glacier Change  
 MC James, TL Edwards, T Matthews, **AT Bradley**, JF O'Neill, and H Zekollari  
