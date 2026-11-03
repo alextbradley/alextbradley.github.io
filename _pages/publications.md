@@ -16,12 +16,8 @@ Non-specialist articles, many written by science journalists, about some of my r
 
 ### Peer Reviewed Publications
 #### In review/submitted  
-* Science and Indigenous Knowledge: The Hybrid Heuristics of Glacier Grafting and Climate Adaptation in Baltistan, Pakistan
-D Mustafa, **AT Bradley**, T Matthews  
-*Accepted for publication in Sustainability*  
-
 * Greenland fjord processes have a depth-dependent influence on predicted submarine melt rates  
-EF Cameron, TR Cowton, **AT Bradley**, PR Holland
+EF Cameron, TR Cowton, **AT Bradley**, PR Holland  
 *In review at the Cryosphere*  
 
 * Quantifying the Role of Parametric Uncertainty in Projections of Large-Scale Glacier Change  
@@ -41,7 +37,11 @@ BID Freer, OJ Marsh, **AT Bradley**, HA Fricker
 *In review at Journal of Glaciology*  
 
 #### Published  
-* [Mass loss from Thwaites Glacier continues even without ocean melting](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122843?af=R)     
+* [Science and Indigenous Knowledge: The Hybrid Heuristics of Glacier Grafting and Climate Adaptation in Baltistan, Pakistan](https://www.mdpi.com/2071-1050/18/21/11180)
+D Mustafa, **AT Bradley**, T Matthews   
+*Sustainability, 18(21), 11180 (2026)*  
+
+* [Mass loss from Thwaites Glacier continues even without ocean melting](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122843?af=R)   
 CR Williams, M Trevers, S Sun, PR Holland, DT Bett, RJ Arthern and **AT Bradley**  
 *Geophysical Research Letters, 53, e2026GL122843 (2026)*  
 
