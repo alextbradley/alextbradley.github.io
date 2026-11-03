@@ -37,7 +37,7 @@ BID Freer, OJ Marsh, **AT Bradley**, HA Fricker
 *In review at Journal of Glaciology*  
 
 #### Published  
-* [Science and Indigenous Knowledge: The Hybrid Heuristics of Glacier Grafting and Climate Adaptation in Baltistan, Pakistan](https://www.mdpi.com/2071-1050/18/21/11180)
+* [Science and Indigenous Knowledge: The Hybrid Heuristics of Glacier Grafting and Climate Adaptation in Baltistan, Pakistan](https://www.mdpi.com/2071-1050/18/21/11180)  
 D Mustafa, **AT Bradley**, T Matthews   
 *Sustainability, 18(21), 11180 (2026)*  
 
